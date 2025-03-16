@@ -43,15 +43,14 @@ def fetch_playlist_url():
         output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
 
     # 获取指定地址的播放列表并添加新的频道，取指定分组的频道
-    # target_groups = ["松视正版"]  # 指定需要的分组名称
-    # new_source_url = "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh"    
     target_groups = ["咪咕视频"]  # 指定需要的分组名称
     new_source_url = "https://4708.kstore.space/svip/ITV.txt"
     try:
         response = requests.get(new_source_url, headers=headers)  # 发送HTTP GET请求获取新源地址列表
         if response.status_code == 200:  # 如果请求成功
             info = response.text  # 获取响应的文本内容
-            print(info.encode('latin1').decode('utf-8'))  # 打印获取的内容，并确保编码为UTF-8
+            info = info.encode('latin1').decode('utf-8')  # 确保内容编码为UTF-8
+            print(info)  # 打印获取的内容
             current_group = None  # 当前处理的分组名称
             for line in info.splitlines():  # 遍历每行内容
                 line = line.encode('latin1').decode('utf-8')  # 确保每行内容编码为UTF-8
