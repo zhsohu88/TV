@@ -54,6 +54,7 @@ def fetch_playlist_url():
             print(info.encode('latin1').decode('utf-8'))  # 打印获取的内容，并确保编码为UTF-8
             current_group = None  # 当前处理的分组名称
             for line in info.splitlines():  # 遍历每行内容
+                line = line.encode('latin1').decode('utf-8')  # 确保每行内容编码为UTF-8
                 if ",#genre#" in line:  # 如果是分组名称行
                     current_group = line.split(",")[0]  # 提取分组名称
                 elif current_group and any(group in current_group for group in target_groups) and "," in line:  # 如果当前分组包含需要的分组名称且是频道行
