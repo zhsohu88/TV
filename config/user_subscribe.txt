@@ -30,8 +30,6 @@ https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 # http://211.101.234.24:866/aishang.txt
 # 野火LIVE
 https://pastebin.com/raw/V0BhYHF4
-# 范明明
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 # 欧歌vjj
 https://欧歌vjj.u.nxog.top/m/tv/
 # 欧歌AI直播
