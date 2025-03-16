@@ -48,12 +48,10 @@ def fetch_playlist_url():
     try:
         response = requests.get(new_source_url, headers=headers)  # 发送HTTP GET请求获取新源地址列表
         if response.status_code == 200:  # 如果请求成功
-            info = response.text  # 获取响应的文本内容
-            info = info.encode('latin1').decode('utf-8')  # 确保内容编码为UTF-8
+            info = response.content.decode('utf-8')  # 获取响应的文本内容并进行UTF-8解码
             print(info)  # 打印获取的内容
             current_group = None  # 当前处理的分组名称
             for line in info.splitlines():  # 遍历每行内容
-                line = line.encode('latin1').decode('utf-8')  # 确保每行内容编码为UTF-8
                 if ",#genre#" in line:  # 如果是分组名称行
                     current_group = line.split(",")[0]  # 提取分组名称
                     print(f"Current group: {current_group}")  # 打印当前分组名称
