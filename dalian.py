@@ -57,9 +57,11 @@ def fetch_playlist_url():
                 line = line.encode('latin1').decode('utf-8')  # 确保每行内容编码为UTF-8
                 if ",#genre#" in line:  # 如果是分组名称行
                     current_group = line.split(",")[0]  # 提取分组名称
+                    print(f"Current group: {current_group}")  # 打印当前分组名称
                 elif current_group and any(group in current_group for group in target_groups) and "," in line:  # 如果当前分组包含需要的分组名称且是频道行
                     channel_name, playlist_url = line.split(",", 1)  # 分割频道名称和播放地址
                     output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
+                    print(f"Matched line: {line}")  # 打印匹配的行
         else:
             print(f"Failed to fetch additional channels: {new_source_url} with status code {response.status_code}")  # 捕获请求异常
     except requests.exceptions.RequestException as e:
