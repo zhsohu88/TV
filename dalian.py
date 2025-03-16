@@ -51,7 +51,7 @@ def fetch_playlist_url():
         response = requests.get(new_source_url, headers=headers)  # 发送HTTP GET请求获取新源地址列表
         if response.status_code == 200:  # 如果请求成功
             info = response.text  # 获取响应的文本内容
-            print(info)  # 打印获取的内容
+            print(info.encode('latin1').decode('utf-8'))  # 打印获取的内容，并确保编码为UTF-8
             current_group = None  # 当前处理的分组名称
             for line in info.splitlines():  # 遍历每行内容
                 if ",#genre#" in line:  # 如果是分组名称行
