@@ -24,12 +24,10 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
 https://ygbh.site/bh.txt
 # NEW直播
 https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
-# 拾光电视
-https://4708.kstore.space/omg/tv.txt
 # 七星itv
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 # 爱尚直播
-http://211.101.234.24:866/aishang.txt
+# http://211.101.234.24:866/aishang.txt
 # 野火LIVE
 https://pastebin.com/raw/V0BhYHF4
 # 范明明
@@ -58,7 +56,7 @@ http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
 # 海燕直播
 https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
 # 飞蓝电视
-http://zhibo.feylen.top/fltv/feiyang1.txt
+# http://zhibo.feylen.top/fltv/feiyang1.txt
 # 乘风TV-1.0.0-002
 http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 # 拾光ITV
