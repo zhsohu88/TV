@@ -63,6 +63,8 @@ http://zhibo.feylen.top/fltv/feiyang1.txt
 http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 # 拾光ITV
 https://4708.kstore.space/svip/ITV.txt
+#拾光-AI拾光
+https://ghproxy.net/raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.txt
 # 彩直港澳台(黑软顶配直播)成人
 # https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh
 # 彩直港澳台(黑软顶配直播)成人-黑软19花
