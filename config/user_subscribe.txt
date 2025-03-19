@@ -50,7 +50,7 @@ http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 # 易看电视
 http://117.72.68.25:9230/latest.txt
 # 野火电视
-http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
+# http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
 # 海燕直播
 https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
 # 飞蓝电视
@@ -61,10 +61,6 @@ http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 https://4708.kstore.space/svip/ITV.txt
 # 小鹦鹉
 https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
-# 彩直港澳台(黑软顶配直播)成人
-# https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh
-# 彩直港澳台(黑软顶配直播)成人-黑软19花
-# https://fel.forxhr.top:2022/down.php/175937208911848ac3330dc773ae198d.txt&3344520
 # http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt            # 小苹果，蜗牛线路[测试2]
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/JJdoudizhu.txt    # 自己的JJ斗地主
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/dalian.txt       # 大连
