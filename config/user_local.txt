@@ -2,12 +2,12 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/l7t0b0I.m3u8$!
-大连生活,http://live.dltv.cn/JzcFkF4/500/o4J0c0k.m3u8$!
-大连文体,http://live.dltv.cn/hxT7Fc3/500/4om0T0F.m3u8$!
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/327hc43.m3u8$!
+大连生活,http://live.dltv.cn/JzcFkF4/500/624hz4F.m3u8$!
+大连文体,http://live.dltv.cn/hxT7Fc3/500/m1ohx47.m3u8$!
 大连影视
 大连少儿
-大连购物,http://live.dltv.cn/N4S4uAj/500/73lN0S0.m3u8$!
+大连购物,http://live.dltv.cn/N4S4uAj/500/p4leh4h.m3u8$!
 咪咕体育-4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=yu&mode=1$!
 咪咕视频-1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1$!
 咪咕视频-2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1$!
