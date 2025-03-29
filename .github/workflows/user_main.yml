@@ -1,4 +1,4 @@
-name: 'Update schedule'
+name: '更新计划'
 
 on:
   schedule:
