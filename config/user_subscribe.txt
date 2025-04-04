@@ -1,0 +1,52 @@
+# 这是订阅源列表，每行一个订阅地址
+# This is a list of subscription sources, with one subscription address per line
+
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# 国外 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+# https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+# https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+# https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+# https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+# https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/kr.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
+# 月光宝盒
+https://ygbh.site/bh.txt
+# NEW直播
+https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
+# 七星itv
+https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
+# 野火LIVE
+https://pastebin.com/raw/V0BhYHF4
+# 欧歌vjj
+https://欧歌vjj.u.nxog.top/m/tv/
+# 欧歌AI直播
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+# 宝全影院272 ①live(EXO)、②Live(IJK)
+http://rihou.cc:55/lib/kx2024.txt
+# 宝全影院272 ③猫TV线路(EXO)、④猫TV线路(IJK)
+http://rihou.cc:567/gggg.nzk
+# 肥猫  同上
+# http://rihou.cc:555/gggg.nzk
+# 码点影仓
+http://mdxgh.tpddns.cn:9999/new/mdzb.txt
+# 易看电视
+http://117.72.68.25:9230/latest.txt
+# 海燕直播
+https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
+# 乘风TV-1.0.0-002
+http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
+# 拾光ITV
+https://4708.kstore.space/svip/ITV.txt
+# 小苹果，蜗牛线路[测试2]
+http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
+# 电视家9.0-2025
+http://8.138.7.223/2025.txt
