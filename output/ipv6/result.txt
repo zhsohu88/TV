@@ -188,10 +188,10 @@ CGTN纪录,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chi
 
 ☘️辽宁频道,#genre#
 大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/327hcg3.m3u8
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/n7tnb0I.m3u8
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
-大连生活,http://live.dltv.cn/JzcFkF4/500/624hzgF.m3u8
-大连文体,http://live.dltv.cn/hxT7Fc3/500/m1ohxg7.m3u8
+大连生活,http://live.dltv.cn/JzcFkF4/500/k4Jnc0k.m3u8
+大连文体,http://live.dltv.cn/hxT7Fc3/500/41omnT0.m3u8
 
 🎬电影频道,#genre#
 
