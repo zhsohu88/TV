@@ -1,0 +1,10 @@
+# 这是本地源列表，一行一个源，格式为：频道名称,接口地址
+# 支持设置白名单：接口后添加$!
+# The local source list, one line per source, format: channel name, interface address
+# Support setting whitelist: add $! after the interface
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/i27tlb0.m3u8$!
+大连生活,http://live.dltv.cn/JzcFkF4/500/l24Jlc0.m3u8$!
+大连文体,http://live.dltv.cn/hxT7Fc3/500/12omlT0.m3u8$!
+大连影视
+大连少儿
+大连购物,http://live.dltv.cn/N4S4uAj/500/45lNlS0.m3u8$!
