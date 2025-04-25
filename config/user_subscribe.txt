@@ -35,9 +35,9 @@ https://欧歌vjj.u.nxog.top/m/tv/
 # 欧歌AI直播
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 # 宝全影院272 ①live(EXO)、②Live(IJK)
-http://rihou.cc:55/lib/kx2024.txt
+# http://rihou.cc:55/lib/kx2024.txt
 # 宝全影院272 ③猫TV线路(EXO)、④猫TV线路(IJK)
-http://rihou.cc:567/gggg.nzk
+# http://rihou.cc:567/gggg.nzk
 # 肥猫  同上
 # http://rihou.cc:555/gggg.nzk
 # 码点影仓
