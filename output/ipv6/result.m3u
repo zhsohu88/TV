@@ -353,10 +353,12 @@ http://39.134.65.71:80/wh7f454c46tw1463100067-1701166012/ottrrs.hl.chinamobile.c
 http://39.134.65.75:80/wh7f454c46tw1967149281-1598774497/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
-#EXTINF:-1 tvg-name="大连新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大连新闻综合.png" group-title="☘️辽宁频道",大连新闻综合
+#EXTINF:-1 tvg-name="大连综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大连综合.png" group-title="☘️辽宁频道",大连综合
 rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
 #EXTINF:-1 tvg-name="大连生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大连生活.png" group-title="☘️辽宁频道",大连生活
 rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
+#EXTINF:-1 tvg-name="大连文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大连文体.png" group-title="☘️辽宁频道",大连文体
+rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?p?zliaond
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="⚽️🏀体育频道",睛彩竞技
 http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="⚽️🏀体育频道",睛彩竞技

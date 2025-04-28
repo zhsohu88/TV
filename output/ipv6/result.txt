@@ -180,8 +180,9 @@ CGTN法语,https://0472.org/hls/cgtnx.m3u8
 重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 
 ☘️辽宁频道,#genre#
-大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
+大连综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
+大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?p?zliaond
 
 ⚽️🏀体育频道,#genre#
 睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
