@@ -94,9 +94,9 @@ CGTN阿语
 香港卫视
 
 ☘️辽宁频道,#genre#
-大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond$!
+大连综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond$!
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond$!
-大连文体
+大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?p?zliaond$!
 大连影院
 大连少儿
 辽宁北方
