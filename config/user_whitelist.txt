@@ -5,6 +5,7 @@
 
 # 自己添加白名单
 gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3
+gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3
 # zhibo.feylen.top/fltv
 
 CCTV1,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
