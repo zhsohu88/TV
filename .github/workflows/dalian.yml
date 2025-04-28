@@ -1,8 +1,8 @@
 name: '大连台'
 
 on:
-  schedule:
-    - cron: '0 3 * * *'  # 每天11:00 AM 运行 (UTC时间为03:00，对应北京时间11:00)
+  # schedule:
+    # - cron: '0 3 * * *'  # 每天11:00 AM 运行 (UTC时间为03:00，对应北京时间11:00)
   workflow_dispatch:  # 允许手动触发
   
 jobs:
