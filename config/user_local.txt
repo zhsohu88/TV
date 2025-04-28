@@ -3,3 +3,4 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 
+# 程序添加的频道
