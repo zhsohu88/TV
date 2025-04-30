@@ -118,3 +118,67 @@ JSPORTS1,JSPORTS 1,J_SPORTS_1
 JSPORTS2,JSPORTS 2,J_SPORTS_2
 JSPORTS3,JSPORTS 3,J_SPORTS_3
 JSPORTS4,JSPORTS 4,J_SPORTS_4
+
+ABN TV,ABN TV (720p)
+Arirang Radio,Arirang Radio (720p)
+Arirang TV,韩国新闻,韩新闻,Arirang TV (1080p),Arirang TV (720p),Arirang TV UN (1080p),KBS World,韩国|Arirang,TV,MBC,DUBAI ONE,Arirang,韩国」MBC,韩国EBS第二频道
+BBS,韩国-BBS,韩国|BBS,BBS Buddhist Broadcasting (1080p)
+BTN TV,BTN TV (1080p)
+CGNTV South Korea,CGNTV South Korea (1080p)
+Channel A,Channel A (360p)
+CJ OnStyle Plus,CJ OnStyle Plus (540p)
+CJ OnStyle,CJ OnStyle (540p)
+CJB|SBS,韩国|CJB|SBS,SBS CJB (540p) [Not 24/7],韩国EBS第一频道
+EBS E,韩国·EBS_E频道,韩国|EBSe,韩EBS_E,韩国-EBSe,韩·EBSe,韩-EBSe
+EBS I,韩国EBS加一频道,韩国|EBSi,韩国·EBS加二频道,韩国|EBS+2,韩·EBS-2,朝鲜新闻
+EBS kids,韩国lEBS 儿童频道,韩EBS少儿童,韩教育台,韩·BBS佛教,韩国|EBS1
+EBS1,韩国-EBS1,韩国|EBS1,韩·EBS1,韩-EBS1,韩国·EBS第一频道,韩·EBS-1,韩国EBS第一频道,TV4
+EBS2,韩国-EBS2,韩国|EBS2,韩·EBS2,韩-EBS2,韩国·EBS第二频道,韩·EBS-2,韩国频道,韩国」EBS Digital,韩国EBS第二频道
+EBS+2,韩国|EBS+2
+FGTV,FGTV (720p)
+GCN24 Korean,GCN24 Korean (720p)
+Gongyoung Shopping,Gongyoung Shopping (720p)
+GoodTV,GoodTV (1080p)
+GS My Shop,GS My Shop (1080p)
+GS Shop,GS Shop (1080p)
+GugakTV 국악방송,GugakTV 국악방송 (1080p)
+HBTV HD,韩·EBS少儿韩国」KCTV
+Home & Shopping,Home & Shopping (720p)
+Hyundai Home Shopping Plus,Hyundai Home Shopping Plus (720p)
+JCN TV,JCN TV (1080p)
+JTV|SBS,KBS世界,SBS JTV (406p) [Not 24/7]
+KBC|SBS,阿里郎,Mubeat
+KBS 1,KBS II,KBS 1TV [Not 24/7]
+KBS 2,KBS 2TV [Not 24/7]
+KBS Drama,KBS Drama (480p)
+KBS Kids,KBS Kids (480p)
+KBS life,KBS Life (480p)
+KBS Live DokDo,KBS LiveCam DokDo (540p),韩国|KBS LIVE,KBS LiveCam DokDo,韩国」BBS
+KBS Story,KBS Story (480p)
+KBS World,韩国KBS World
+KCTV,ArirangTV,KCTV 광주,KCTV 광주 CH05 (720p) [Not 24/7],韩国|KCTV,TBS Seoul
+KCTV1,韩国|KCTV 1
+KFN,Gugbang TV (1080p) [Not 24/7]
+KNN SBS,SBS KNN (1080p) [Not 24/7]
+Korea TV,Korea TV (1080p),韩·KoreaTV,KBS世界
+Lotte Home Shopping,Lotte Home Shopping (720p)
+Lotte OneTV,Lotte OneTV (720p)
+MAD,韩·EBS-2
+MBC M,C
+MBC,MBC Jeju (제주 MBC) (352p) [Not 24/7],KBC TV,MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],MBC Chungbuk (MBC 충북) (720p) [Not 24/7],MBC Daegu (대구 MBC) (480p) [Not 24/7],MBC Daejeon (대전 MBC) (720p) [Not 24/7],MBC TV (720p),MBC Yeosu (여수 MBC) (1080p) [Not 24/7],韩国|MBC体育,MBC体育
+MBN,MBN,JTV
+NBS,NBS Korea Agricultural Broadcasting (720p),ArirangTV,TV1,韩国|NBS
+NHTV,NHTV (720p),NTV
+OBS,OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+OUN,OUN (1080p)
+RM24H,韩国RM24H
+SBS,SBS (480p)
+Shinsegae Shopping TV,Shinsegae Shopping TV (720p)
+Shopping NT,Shopping NT (720p)
+TBS,TBS Seoul (720p),ArirangTV,TV3
+TVN,韩国|TVN2,韩国」JTBC
+TVN1,韩国|TVN1,韩国」EBSe
+TVN3,韩国|TVN3,韩国」CJB | SBS
+W Shopping,W Shopping (720p)
+WBC,WBC TV (1080p)
+YTN,YTN
