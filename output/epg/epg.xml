@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250430053025 +0800">
+<tv date="20250430101204 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -5630,6 +5630,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250430112000 +0800" stop="20250430124000 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250430125000 +0800" stop="20250430142500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛1/4决赛第2轮 内蒙古农信-新疆国达氢</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250430143000 +0800" stop="20250430161000 +0800">
+		<title lang="zh">篮球：为爱而生05 巨人之战</title>
 	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
