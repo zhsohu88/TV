@@ -16,3 +16,8 @@ z.b.bkpcp.top
 php.jdshipin.com:8880
 goo.bkpcp.top
 tvbox6.icu
+satellitepull.cnr.cn
+aktv-stream
+aktv_stream1
+61.133.118.228:5001
+8.138.7.223/tv
