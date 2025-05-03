@@ -202,13 +202,13 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 云戈宝电竞,http://www.52sw.top:678/play/huya.php?id=406324
 
 ⚽️🏀咪咕体育,#genre#
+睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
 睛彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221226027/1.m3u8
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
-睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226147/.m3u8
 睛彩篮球,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
 睛彩篮球,http://39.134.67.148/PLTV/88888888/224/3221225895/1.m3u8
@@ -511,14 +511,14 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广州竞赛,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
 劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
-睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
-睛彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
+睛彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
+睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221226027/1.m3u8
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
-睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226147/.m3u8
 睛彩篮球,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
 睛彩篮球,http://39.134.67.148/PLTV/88888888/224/3221225895/1.m3u8
