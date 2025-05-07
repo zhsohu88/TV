@@ -17,6 +17,7 @@ CCTV14
 CCTV15
 CCTV16
 CCTV17
+CCTV高清,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV4K
 CCTV8K
 CCTV4美洲
@@ -46,7 +47,7 @@ CETV3
 CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8$!
 CETV5
 CETV早教
-CGTN
+CGTN,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225604/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 CGTN纪录,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 CGTN英语,https://0472.org/hls/cgtn.m3u8$!
 CGTN法语,https://0472.org/hls/cgtnf.m3u8$!
