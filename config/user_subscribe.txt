@@ -56,3 +56,5 @@ http://dd.rihou.cc:555/gggg.nzk
 # http://rihou.cc:567/gggg.nzk
 # 飞蓝电视free_1.1.1_免费版
 # http://api.mytv666.top/lives/free.php?type=txt
+# 流年直播
+https://chuxinya.top/f/76vVIZ/流年直播源.txt
