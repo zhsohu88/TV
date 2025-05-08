@@ -40,15 +40,15 @@ http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 http://117.72.68.25:9230/latest.txt
 # 海燕直播
 https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
-# 乘风TV-1.0.0-002
-http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
+# 乘风TV-1.0.0-002  同源 猫TV 肥猫 宝全影院272 ③猫TV线路(EXO)、④猫TV线路(IJK) 乘风TV-1.0.0-002
+# http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 # 拾光ITV
 https://4708.kstore.space/svip/ITV.txt
 # 小苹果，蜗牛线路[测试2]
 http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
 # 电视家9.0-2025
 http://8.138.7.223/2025.txt
-# 猫TV 同源 猫TV 肥猫 宝全影院272 ③猫TV线路(EXO)、④猫TV线路(IJK)
+# 猫TV 同源 猫TV 肥猫 宝全影院272 ③猫TV线路(EXO)、④猫TV线路(IJK) 乘风TV-1.0.0-002
 http://dd.rihou.cc:555/gggg.nzk
 # 肥猫  同源 猫TV 肥猫 宝全影院272 ③猫TV线路(EXO)、④猫TV线路(IJK)
 # http://rihou.cc:555/gggg.nzk
