@@ -1,0 +1,195 @@
+# 这是频道名称的别名名单，用于获取接口时将多种名称映射为一个名称的结果，可以提升获取量与准确率
+# 格式：模板频道名称,别名1,别名2,别名3
+# This is the alias list for channel names, used to map multiple names to a single name when fetching from the interface, improving the fetch volume and accuracy.
+# Format: TemplateChannelName,Alias1,Alias2,Alias3
+
+CCTV1,CCTV-01,CCTV-01_ITV,CCTV-01北联,CCTV-01电信,CCTV-01东联,CCTV-01高码,CCTV-01高清,CCTV-01广西,CCTV-01梅州,CCTV-01咪咕,CCTV-01频陆,CCTV-01汝阳,CCTV-01山东,CCTV-01上海,CCTV-01斯特,CCTV-01四川,CCTV-01太原,CCTV-01天津,CCTV-01影视,CCTV-01浙江,CCTV-01重庆,CCTV-1,CCTV1 综合,CCTV-1 综合,CCTV1(B),CCTV1[1920*1080],CCTV1「IPV6」,CCTV1HD,CCTV-1HD,CCTV1-标清,CCTV1港澳牿,CCTV-1高清,CCTV1综合,CCTV1-综合,CCTV-1综合,CCTV-1综合ᴴᴰ,CCTV-01咪咕
+CCTV2,CCTV-02,CCTV-02_ITV,CCTV-02北联,CCTV-02电信,CCTV-02东联,CCTV-02高码,CCTV-02高清,CCTV-02广西,CCTV-02梅州,CCTV-02咪咕,CCTV-02频陆,CCTV-02汝阳,CCTV-02山东,CCTV-02上海,CCTV-02斯特,CCTV-02四川,CCTV-02太原,CCTV-02天津,CCTV-02影视,CCTV-02浙江,CCTV-02重庆,CCTV-2,CCTV2 财经,CCTV-2 财经,CCTV2[1280*720],CCTV2「IPV6」,CCTV20241,CCTV22,CCTV250,CCTV2HD,CCTV-2HD,CCTV2-标清,CCTV2-财经,CCTV-2财经,CCTV-2财经ᴴᴰ,CCTV-2高清,CCTV2财经,CCTV-02咪咕
+CCTV3,CCTV-03,CCTV-03_ITV,CCTV-03北联,CCTV-03电信,CCTV-03东联,CCTV-03高码,CCTV-03高清,CCTV-03广西,CCTV-03梅州,CCTV-03咪咕,CCTV-03频陆,CCTV-03汝阳,CCTV-03山东,CCTV-03上海,CCTV-03斯特,CCTV-03四川,CCTV-03太原,CCTV-03天津,CCTV-03影视,CCTV-03浙江,CCTV-03重庆,CCTV-3,CCTV3 综艺,CCTV-3 综艺,CCTV3[1920*1080],CCTV3「IPV6」,CCTV3HD,CCTV-3HD,CCTV3-标清,CCTV-3高清,CCTV-3-高清,CCTV3-综艺,CCTV-3综艺,CCTV-3综艺ᴴᴰ,CCTV3综艺,CCTV-03咪咕
+CCTV4,CCTV-04,CCTV-04_ITV,CCTV-04北联,CCTV-04电信,CCTV-04东联,CCTV-04高码,CCTV-04高清,CCTV-04广西,CCTV-04梅州,CCTV-04咪咕,CCTV-04频陆,CCTV-04汝阳,CCTV-04山东,CCTV-04上海,CCTV-04斯特,CCTV-04四川,CCTV-04太原,CCTV-04天津,CCTV-04影视,CCTV-04浙江,CCTV-04重庆,CCTV-4,CCTV4 中文国际,CCTV-4 中文国际,CCTV-4 中文国际 美洲,CCTV-4 中文国际 欧洲,CCTV4（美洲）,CCTV4（欧洲）,CCTV4[1280*720],CCTV4[1920*1080],CCTV4「IPV6」,CCTV42,CCTV450,CCTV4HD,CCTV-4HD,CCTV-4K超高渿,CCTV-4标清,CCTV-4高清,CCTV4国际,CCTV4-国际,CCTV4美洲,CCTV-4美洲,CCTV4欧洲,CCTV-4欧洲,CCTV4频道陆,CCTV4-中文国际,CCTV-4中文国际,CCTV-4中文国际ᴴᴰ,CCTV4中文国际美洲,CCTV-4中文国际美洲,CCTV4中文国际欧洲,CCTV-4中文国际欧洲,CCTV4中文国际,CCTV-04咪咕
+CCTV5,CCTV-05,CCTV-05_ITV,CCTV-05北联,CCTV-05电信,CCTV-05东联,CCTV-05高码,CCTV-05高清,CCTV-05广西,CCTV-05梅州,CCTV-05咪咕,CCTV-05频陆,CCTV-05汝阳,CCTV-05山东,CCTV-05上海,CCTV-05斯特,CCTV-05四川,CCTV-05太原,CCTV-05天津,CCTV-05影视,CCTV-05浙江,CCTV-05重庆,CCTV-5,CCTV5 体育,CCTV-5 体育,CCTV-5 体育（高码率）,CCTV5[1920*1080],CCTV5「IPV6」,CCTV5HD,CCTV-5HD,CCTV5-标清,CCTV-5高清,CCTV-5-高清,CCTV-5高清测试,CCTV5体育,CCTV5-体育,CCTV-5体育,CCTV-5体育ᴴᴰ,CCTV-05咪咕
+CCTV5+,CCTV5＋,CCTV-5+,CCTV5+ 体育赛事,CCTV-5+ 体育赛事,CCTV5+[1920*1080],CCTV-5+_ITV,CCTV5+「IPV6」,CCTV5+HD,CCTV-5+HD,CCTV-5+北联,CCTV-5+电信,CCTV-5+高码,CCTV-5+高清,CCTV-5+广西,CCTV-5+梅州,CCTV-5+咪咕,CCTV-5+频陆,CCTV-5+汝阳,CCTV-5+四川,CCTV-5+太原,CCTV5+体育赛事,CCTV5+-体育赛事,CCTV-5+体育赛事,CCTV-5+体育赛事ᴴᴰ,CCTV-5+天津,CCTV-5+影视,CCTV-5+浙江,CCTV-5+重庆,CCTV 5+斯特,CCTV5+体育,CCTV-5+咪咕
+CCTV6,CCTV-06,CCTV-06_ITV,CCTV-06北联,CCTV-06电信,CCTV-06东联,CCTV-06高码,CCTV-06高清,CCTV-06广西,CCTV-06梅州,CCTV-06咪咕,CCTV-06频陆,CCTV-06汝阳,CCTV-06山东,CCTV-06上海,CCTV-06斯特,CCTV-06四川,CCTV-06太原,CCTV-06天津,CCTV-06影视,CCTV-06浙江,CCTV-06重庆,CCTV-6,CCTV6 电影,CCTV-6 电影,CCTV6[1920*1080],CCTV6「IPV6」,CCTV650,CCTV6HD,CCTV-6HD,CCTV6-标清,CCTV6-电影,CCTV-6电影,CCTV-6电影ᴴᴰ,CCTV-6高清,CCTV-6-高清,CCTV-6高清测试,CCTV6电影,CCTV-06咪咕
+CCTV7,CCTV-7,CCTV7 国防军事,CCTV-7 国防军事,CCTV7[1920*1080],CCTV7「IPV6」,CCTV72,CCTV750,CCTV7HD,CCTV-7HD,CCTV7-标清,CCTV-7高清,CCTV7-国防军事,CCTV-7国防军事,CCTV-7国防军事ᴴᴰ,CCTV7-军农,CCTV-07,CCTV-07_ITV,CCTV-07北联,CCTV-07电信,CCTV-07东联,CCTV-07高码,CCTV-07高清,CCTV-07广西,CCTV-07梅州,CCTV-07咪咕,CCTV-07频陆,CCTV-07汝阳,CCTV-07山东,CCTV-07上海,CCTV-07斯特,CCTV-07四川,CCTV-07太原,CCTV-07天津,CCTV-07影视,CCTV-07浙江,CCTV-07重庆,CCTV7军事,CCTV国防军事,CCTV-07咪咕
+CCTV8,CCTV-8,CCTV8 电视剧,CCTV-8 电视剧,CCTV8[1920*1080],CCTV8「IPV6」,CCTV8HD,CCTV-8HD,CCTV8-标清,CCTV8-电视剿,CCTV-8电视剿,CCTV8-电视剧,CCTV-8电视剧,CCTV-8电视剧ᴴᴰ,CCTV-8高清,CCTV-8-高清,CCTV-08,CCTV-08_ITV,CCTV-08北联,CCTV-08电信,CCTV-08东联,CCTV-08高码,CCTV-08高清,CCTV-08广西,CCTV-08梅州,CCTV-08咪咕,CCTV-08频陆,CCTV-08汝阳,CCTV-08山东,CCTV-08上海,CCTV-08斯特,CCTV-08四川,CCTV-08太原,CCTV-08天津,CCTV-08影视,CCTV-08浙江,CCTV-08重庆,CCTV8电视剧,CCTV-08咪咕
+CCTV9,CCTV-9,CCTV9 纪录,CCTV-9 纪录,CCTV9[1920*1080],CCTV9「IPV6」,CCTV92,CCTV950,CCTV9HD,CCTV-9HD,CCTV9-标清,CCTV-9高清,CCTV9-纪录,CCTV-9纪录,CCTV-9纪录ᴴᴰ,CCTV-09,CCTV-09_ITV,CCTV-09北联,CCTV-09电信,CCTV-09东联,CCTV-09高码,CCTV-09高清,CCTV-09广西,CCTV-09梅州,CCTV-09咪咕,CCTV-09频陆,CCTV-09汝阳,CCTV-09山东,CCTV-09上海,CCTV-09斯特,CCTV-09四川,CCTV-09太原,CCTV-09天津,CCTV-09影视,CCTV-09浙江,CCTV-09重庆,CCTV9纪录,CCTV-09咪咕
+CCTV10,CCTV-10,CCTV10 科教,CCTV-10 科教,CCTV10[1920*1080],CCTV-10_ITV,CCTV10「IPV6」,CCTV102,CCTV1050,CCTV10HD,CCTV-10HD,CCTV-10北联,CCTV10-标清,CCTV-10电信,CCTV-10东联,CCTV-10高码,CCTV-10高清,CCTV-10广西,CCTV10-科教,CCTV-10科教,CCTV-10科教ᴴᴰ,CCTV-10梅州,CCTV-10咪咕,CCTV-10频陆,CCTV-10汝阳,CCTV-10山东,CCTV-10上海,CCTV-10斯特,CCTV-10四川,CCTV-10太原,CCTV-10天津,CCTV-10影视,CCTV-10浙江,CCTV-10重庆,CCTV10科教,CCTV-10咪咕
+CCTV11,CCTV-11,CCTV11 戏曲,CCTV-11 戏曲,CCTV11[1280*720],CCTV-11_ITV,CCTV11「IPV6」,CCTV1150,CCTV11HD,CCTV-11HD,CCTV-11北联,CCTV11-标清,CCTV-11电信,CCTV-11东联,CCTV-11高码,CCTV-11高清,CCTV-11广西,CCTV-11梅州,CCTV-11咪咕,CCTV-11频陆,CCTV-11汝阳,CCTV-11山东,CCTV-11上海,CCTV-11斯特,CCTV-11四川,CCTV-11太原,CCTV-11天津,CCTV11-戏曲,CCTV-11戏曲,CCTV-11戏曲ᴴᴰ,CCTV-11影视,CCTV-11浙江,CCTV-11重庆,CCTV11戏曲,CCTV戏曲,CCTV-戏曲,CCTV-11咪咕
+CCTV12,CCTV-12,CCTV12 社会与法,CCTV-12 社会与法,CCTV-12 社会与法（5.1环绕声）,CCTV12[1920*1080],CCTV-12_ITV,CCTV12「IPV6」,CCTV122,CCTV1250,CCTV12HD,CCTV-12HD,CCTV-12北联,CCTV12-标清,CCTV-12电信,CCTV-12东联,CCTV-12高码,CCTV-12高清,CCTV-12广西,CCTV-12梅州,CCTV-12咪咕,CCTV-12频陆,CCTV-12汝阳,CCTV-12山东,CCTV-12上海,CCTV12-社会与法,CCTV-12社会与法,CCTV-12社会与法ᴴᴰ,CCTV-12斯特,CCTV-12四川,CCTV-12太原,CCTV-12天津,CCTV-12影视,CCTV-12浙江,CCTV-12重庆,CCTV12社会与法,CCTV-12咪咕
+CCTV13,CCTV-13,CCTV13 新闻,CCTV-13 新闻,CCTV13[1920*1080],CCTV13「IPV6」,CCTV1350,CCTV13HD,CCTV-13HD,CCTV-13北联,CCTV13-标清,CCTV-13电信,CCTV-13东联,CCTV-13高码,CCTV-13高清,CCTV-13广西,CCTV-13梅州,CCTV-13咪咕,CCTV-13频陆,CCTV-13汝阳,CCTV-13山东,CCTV-13上海,CCTV-13斯特,CCTV-13四川,CCTV-13太原,CCTV-13天津,CCTV13听电视,CCTV13-新闻,CCTV-13新闻,CCTV-13新闻ᴴᴰ,CCTV-13影视,CCTV-13浙江,CCTV-13重庆,CCTV13新闻,CCTV-13咪咕
+CCTV14,CCTV-14,CCTV14 少儿,CCTV-14 少儿,CCTV14[1920*1080],CCTV-14_ITV,CCTV14「IPV6」,CCTV1450,CCTV14HD,CCTV-14HD,CCTV-14北联,CCTV14-标清,CCTV-14电信,CCTV-14东联,CCTV-14高码,CCTV-14高清,CCTV-14广西,CCTV-14梅州,CCTV-14咪咕,CCTV-14频陆,CCTV-14汝阳,CCTV-14山东,CCTV-14上海,CCTV14-少儿,CCTV-14少儿,CCTV-14少儿ᴴᴰ,CCTV-14斯特,CCTV-14四川,CCTV-14太原,CCTV-14天津,CCTV-14影视,CCTV-14浙江,CCTV-14重庆,CCTV14少儿,CCTV少儿,CCTV-少儿,CCTV-14咪咕
+CCTV15,CCTV-15,CCTV15 音乐,CCTV-15 音乐,CCTV-15(音乐),CCTV15[1280*720],CCTV-15_ITV,CCTV15「IPV6」,CCTV150,CCTV1550,CCTV15HD,CCTV-15HD,CCTV-15北联,CCTV15-标清,CCTV-15电信,CCTV-15东联,CCTV-15高码,CCTV-15高清,CCTV-15广西,CCTV-15梅州,CCTV-15咪咕,CCTV-15频陆,CCTV-15汝阳,CCTV-15山东,CCTV-15上海,CCTV-15斯特,CCTV-15四川,CCTV-15太原,CCTV-15天津,CCTV15-音乐,CCTV-15音乐,CCTV-15音乐ᴴᴰ,CCTV-15影视,CCTV-15浙江,CCTV-15重庆,CCTV15音乐,CCTV音乐,CCTV娱乐,CCTV-娱乐,CCTV-15咪咕
+CCTV16,CCTV-16,CCTV16 4K,CCTV-16 4K,CCTV16 奥林匹克,CCTV-16 奥林匹克,CCTV-16 奥林匹克（5.1环绕声）,CCTV-16 奥林匹克4K（5.1环绕声）,CCTV16(4K),CCTV16[1920*1080],CCTV-16_ITV,CCTV16「IPV6」,CCTV16-4K,CCTV-16-4K,CCTV16-4K-25PHLG源,CCTV16HD,CCTV-16HD,CCTV16-奥林匹克,CCTV-16奥林匹克,CCTV16奥林匹克4K,CCTV-16奥林匹克ᴴᴰ,CCTV-16北联,CCTV-16电信,CCTV-16高码,CCTV-16高清,CCTV-16梅州,CCTV-16咪咕,CCTV-16汝阳,CCTV-16太原,CCTV-16天津,CCTV-16影视,CCTV-16浙江,CCTV16体育赛事,CCTV-16咪咕
+CCTV17,CCTV-17,CCTV17 农业农村,CCTV-17 农业农村,CCTV-17 农业农村（5.1环绕声）,CCTV17[1920*1080],CCTV-17_ITV,CCTV17「IPV6」,CCTV172,CCTV17HD,CCTV-17HD,CCTV-17北联,CCTV17-标清,CCTV-17电信,CCTV-17高码,CCTV-17高清,CCTV-17广西,CCTV-17梅州,CCTV-17咪咕,CCTV17-农业农村,CCTV-17农业农村,CCTV-17农业农村ᴴᴰ,CCTV-17汝阳,CCTV-17上海,CCTV-17四川,CCTV-17太原,CCTV-17天津,CCTV-17影视,CCTV-17浙江,CCTV-17重庆,CCTV17农业农村,CCTV-17咪咕
+
+CCTV4美洲,cct4美洲咪咕
+CCTV4欧洲,cct4欧洲咪咕
+CCTV4K,CCTV 4K,CCTV-4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
+CCTV8K,CCTV-8K,CCTV8K 超高清,CCTV-8K 超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
+兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD
+第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
+发现之旅,CCTV发现之旅,CCTV-发现之旅,中央新影-发现之旅
+风云剧场,CCTV风云剧场,CCTV-风云剧场,CCTV风云剧场HD
+风云音乐,CCTV风云音乐,CCTV-风云音乐,CCTV风云音乐HD
+风云足球,CCTV风云足球,CCTV-风云足球,CCTV风云足球HD
+央视台球,CCTV央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球
+高尔夫网球,CCTV高尔夫球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网
+怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿
+老故事,CCTV老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典
+女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
+世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD
+文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
+百姓健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
+中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,中央新影-中学生
+CETV1,CETV 1 中国教育,中国教育1,中国教育1HD
+CETV2,CETV 2 中国教育,中国教育2
+CETV3,CETV3中国教育,中国教育3
+CETV4,CETV 4 中国教育,中国教育4
+CETV早教,CETV早期教育,早期教育
+CGTN英语,CGTNCCTV英语新闻
+CGTN俄语,CGTN俄罗斯语
+
+大连新闻,大连新闻综合,辽宁|大连新闻综合,大连综合,辽宁|大连新闻,辽宁|大连综合
+大连生活,大连生活频道,辽宁|大连生活,辽宁|大连生活
+大连文体,大连文体频道,辽宁|大连文体,辽宁|大连文体
+
+赛事咪咕1,咪咕1,咪咕视频-1,咪咕体育 24,赛事播01,赛事咪咕播01,咪咕足球赛事-2,咪咕直播-1,咪咕直播1,咪咕直播 𝟙「IPV4」,咪咕直播
+赛事咪咕2,咪咕2,咪咕视频-2,咪咕视频01,咪咕直播,咪咕体育 25,赛事播02,赛事咪咕播02,咪咕视频-1,咪咕直播-2,咪咕直播2,咪咕直播 𝟚「IPV4」
+赛事咪咕3,咪咕3,咪咕视频-3,咪咕体育 26,赛事播03,赛事咪咕播03,咪咕视频-2,咪咕直播-3,咪咕直播 𝟛「IPV4」
+赛事咪咕4,咪咕4,咪咕视频-4,咪咕体育 27,赛事播04,赛事咪咕播04,咪咕视频-3,咪咕直播-4,咪咕直播 𝟜「IPV4」
+赛事咪咕5,咪咕5,咪咕视频-5,咪咕体育 28,赛事播05,赛事咪咕播05,咪咕游戏赛事-1,咪咕直播-5,咪咕直播 𝟝「IPV4」
+赛事咪咕6,咪咕6,咪咕视频-6,咪咕体育 29,赛事播06,赛事咪咕播06,咪咕足球赛事-3,咪咕直播-6,咪咕直播 𝟞「IPV4」
+赛事咪咕7,咪咕7,咪咕视频-7,咪咕体育 30,赛事播07,赛事咪咕播07,咪咕视频-4,咪咕直播-7,咪咕直播 𝟟「IPV4」
+赛事咪咕8,咪咕8,咪咕视频-8,赛事播08,赛事咪咕播08,咪咕视频-5,咪咕直播-8,咪咕直播 𝟠「IPV4」
+赛事咪咕9,赛事咪咕播09,咪咕直播-9,赛事播09
+赛事咪咕10,咪咕9,咪咕视频-9,咪咕体育 31,赛事播09,赛事咪咕播10,咪咕视频-6,咪咕直播-10,咪咕直播 𝟡「IPV4」,赛事播10
+赛事咪咕11,咪咕10,咪咕视频-10,咪咕体育 32,赛事播10,赛事咪咕播11,咪咕视频-7,咪咕直播-11,咪咕直播 𝟙𝟘「IPV4」,赛事播11
+赛事咪咕12,咪咕24,咪咕视频-24,咪咕视频02,咪咕体育 01,赛事播24,赛事咪咕播12,咪咕视频-8,咪咕直播-12,咪咕直播 𝟙𝟙「IPV4」,赛事播12
+赛事咪咕13,咪咕25,咪咕视频-25,咪咕视频03,咪咕体育 02,赛事播25,赛事咪咕播13,咪咕视频-9,咪咕直播-13,咪咕直播 𝟙𝟚「IPV4」,赛事播13
+赛事咪咕14,赛事咪咕播14,咪咕直播-14,赛事播14
+赛事咪咕15,咪咕26,咪咕视频-26,咪咕视频04,咪咕体育 03,赛事播26,赛事咪咕播15,咪咕足球赛事-4,咪咕直播-15,咪咕直播 𝟙𝟛「IPV4」,赛事播15
+赛事咪咕16,咪咕27,咪咕视频-27,咪咕视频05,咪咕体育 04,赛事播27,赛事咪咕播16,咪咕视频-10,咪咕直播-16,咪咕直播 𝟙𝟜「IPV4」,赛事播16
+赛事咪咕17,咪咕28,咪咕视频-28,咪咕视频06,咪咕体育 05,赛事播28,赛事咪咕播17,咪咕视频-11,咪咕直播-17,咪咕直播 𝟙𝟝「IPV4」,赛事播17
+赛事咪咕18,赛事咪咕播18,咪咕直播-18,赛事播18
+赛事咪咕19,咪咕4K-1,赛事咪咕频⁴ᴷ,咪咕体育 06,赛事咪咕壹4K,咪咕体育-4K,咪咕直播-1-4K,咪咕直播4K「IPV4」,咪咕直播,赛事壹4K
+赛事咪咕20,咪咕11,咪咕视频-11,咪咕体育 07,赛事播11,赛事咪咕播19,咪咕视频-12,咪咕直播-19,咪咕直播 𝟙𝟞「IPV4」,赛事播19
+赛事咪咕21,咪咕29,咪咕视频-29,咪咕视频07,咪咕体育 08,赛事播29,赛事咪咕播20,咪咕视频-13,咪咕直播-20,咪咕直播 𝟙𝟟「IPV4」,赛事播20
+赛事咪咕22,咪咕30,咪咕视频-30,咪咕视频08,咪咕体育 09,赛事播30,赛事咪咕播21,咪咕视频-14,咪咕直播-21,咪咕直播 𝟙𝟠「IPV4」,赛事播21
+赛事咪咕23,赛事咪咕播22,咪咕直播-22,赛事播22
+赛事咪咕24,赛事咪咕播23,咪咕直播-23,赛事播23
+赛事咪咕25,咪咕31,咪咕视频-31,咪咕视频09,咪咕体育 10,赛事播31,赛事咪咕播24,咪咕视频-15,咪咕直播-24,咪咕直播 𝟙𝟡「IPV4」,赛事播24
+赛事咪咕26,咪咕32,咪咕视频-32,咪咕视频10,咪咕体育 11,赛事播32,赛事咪咕播25,咪咕视频-16,咪咕直播-25,咪咕直播 𝟚𝟘「IPV4」,赛事播25
+赛事咪咕27,赛事咪咕播26,咪咕直播-26,赛事播26
+赛事咪咕28,咪咕33,咪咕视频-33,咪咕视频11,咪咕体育 12,赛事播33,赛事咪咕播27,咪咕视频-17,咪咕直播-27,咪咕直播 𝟚𝟙「IPV4」,赛事播27
+赛事咪咕29,咪咕34,咪咕视频-34,咪咕体育 13,赛事播34,赛事咪咕播28,咪咕视频-18,咪咕直播-28,咪咕直播 𝟚𝟚「IPV4」,赛事播28
+赛事咪咕30,赛事咪咕播29,咪咕直播-29,赛事播29
+赛事咪咕31,赛事咪咕播30,咪咕直播-30,赛事播30
+赛事咪咕32,赛事咪咕播31,咪咕直播-31,赛事播31
+赛事咪咕33,赛事咪咕播32,咪咕直播-32,赛事播32
+赛事咪咕34,咪咕35,咪咕视频-35,咪咕视频12,咪咕体育 14,赛事播35,赛事咪咕播33,咪咕视频-19,咪咕直播-33,咪咕直播 𝟚𝟛「IPV4」,赛事播33
+赛事咪咕35,咪咕36,咪咕视频-36,咪咕视频13,咪咕体育 15,赛事播36,赛事咪咕播34,咪咕视频-20,咪咕直播-34,咪咕直播 𝟚𝟜「IPV4」,赛事播34
+赛事咪咕36,咪咕37,咪咕视频-37,咪咕视频14,咪咕体育 16,赛事咪咕播35,咪咕视频-21,咪咕直播-35,咪咕直播 𝟚𝟝「IPV4」,赛事播35,赛事播37
+赛事咪咕37,咪咕38,咪咕视频-38,咪咕视频15,咪咕体育 17,赛事播38,赛事咪咕播36,咪咕足球赛事-5,咪咕直播-36,咪咕直播 𝟚𝟞「IPV4」,赛事播36
+赛事咪咕38,咪咕4K-2,咪咕体育 18,赛事咪咕贰4K,咪咕直播-2-4K,赛事贰4K
+赛事咪咕39,赛事播37,赛事咪咕播37,咪咕直播-37
+赛事咪咕40,咪咕39,咪咕视频-39,咪咕视频16,咪咕体育 19,赛事咪咕播38,咪咕直播-38,咪咕直播 𝟚𝟟「IPV4」,赛事播38,赛事播39
+赛事咪咕41,赛事播39,赛事咪咕播39,咪咕直播-39
+赛事咪咕42,赛事播40,赛事咪咕播40,咪咕直播-40
+赛事咪咕43,咪咕40,咪咕视频-40,咪咕视频17,咪咕体育 20,赛事咪咕播41,咪咕视频-22,咪咕直播-41,咪咕直播 𝟚𝟠「IPV4」,赛事播41,赛事播40
+赛事咪咕44,赛事播42,赛事咪咕播42,咪咕直播-42
+赛事咪咕45,咪咕41,咪咕视频-41,咪咕视频18,咪咕体育 21,赛事播41,赛事咪咕播43,咪咕视频-23,咪咕直播-43,咪咕直播 𝟚𝟡「IPV4」,赛事播43
+赛事咪咕46,咪咕42,咪咕视频-42,咪咕视频19,咪咕体育 22,赛事咪咕播44,咪咕足球赛事-6,咪咕直播-44,咪咕直播 𝟛𝟘「IPV4」,赛事播44,赛事播42
+赛事咪咕47,赛事咪咕播45,咪咕直播-45,赛事播45
+赛事咪咕48,赛事播46,赛事咪咕播46,咪咕直播-46
+赛事咪咕49,咪咕43,咪咕视频-43,咪咕视频20,赛事播43,赛事播47,赛事咪咕播47,咪咕视频-24,咪咕直播-47,咪咕直播 𝟛𝟙「IPV4」
+赛事咪咕50,赛事播48,赛事咪咕播48,咪咕直播-48
+赛事咪咕51,赛事播49,赛事咪咕播49,咪咕直播-49
+赛事咪咕52,赛事播50,赛事咪咕播50,咪咕直播-50
+赛事咪咕53,咪咕44,咪咕视频-44,咪咕视频21,咪咕体育 23,赛事播44,赛事播51,赛事咪咕播51,咪咕视频-25,咪咕直播-51,咪咕直播 𝟛𝟚「IPV4」
+赛事咪咕54,咪咕45,咪咕视频-45,咪咕视频22,赛事播45,赛事播52,赛事咪咕播52,咪咕视频-26,咪咕直播-52,咪咕直播 𝟛𝟛「IPV4」
+赛事咪咕55,赛事播53,赛事咪咕播53,咪咕直播-53
+赛事咪咕56,咪咕12,咪咕视频-12,赛事播12,咪咕视频-27,咪咕直播 𝟛𝟜「IPV4」
+赛事咪咕57,咪咕13,咪咕视频-13,赛事播13,咪咕视频-28,咪咕直播 𝟛𝟝「IPV4」
+赛事咪咕58,咪咕14,咪咕视频-14,赛事播14,咪咕视频-29,咪咕直播 𝟛𝟞「IPV4」
+赛事咪咕59,咪咕15,咪咕视频-15,赛事播15,咪咕视频-30,咪咕直播 𝟛𝟟「IPV4」
+赛事咪咕60,咪咕16,咪咕视频-16,赛事播16,咪咕视频-31,咪咕直播 𝟛𝟠「IPV4」
+赛事咪咕61,咪咕17,咪咕视频-17,赛事播17,晴彩广场舞「IPV4」
+赛事咪咕62,咪咕18,咪咕视频-18,赛事播18
+赛事咪咕63,咪咕19,咪咕视频-19,赛事播19,晴彩少年「IPV4」
+赛事咪咕64,咪咕20,咪咕视频-20,赛事播20,赛事睛彩竞技,晴彩竞技「IPV4」
+赛事咪咕65,咪咕21,咪咕视频-21,赛事播21,赛事睛彩篮球,晴彩篮球「IPV4」
+赛事咪咕66,咪咕22,咪咕视频-22,赛事播22,赛事睛彩竞技
+赛事咪咕67,咪咕23,咪咕视频-23,赛事播23,赛事睛彩篮球
+
+博斯运动1,博斯运动,博斯魅力
+MBC体育,韩国|MBC体育
+JSPORTS1,JSPORTS 1,J_SPORTS_1
+JSPORTS2,JSPORTS 2,J_SPORTS_2
+JSPORTS3,JSPORTS 3,J_SPORTS_3
+JSPORTS4,JSPORTS 4,J_SPORTS_4
+
+竞技麻将大师赛,川麻麻将大师赛
+
+ABN TV,ABN TV (720p)
+Arirang Radio,Arirang Radio (720p)
+Arirang TV,韩国新闻,韩新闻,Arirang TV (1080p),Arirang TV (720p),Arirang TV UN (1080p),KBS World,韩国|Arirang,TV,MBC,DUBAI ONE,Arirang,韩国」MBC,韩国EBS第二频道
+BBS,韩国-BBS,韩国|BBS,BBS Buddhist Broadcasting (1080p)
+BTN TV,BTN TV (1080p)
+CGNTV South Korea,CGNTV South Korea (1080p)
+Channel A,Channel A (360p)
+CJ OnStyle Plus,CJ OnStyle Plus (540p)
+CJ OnStyle,CJ OnStyle (540p)
+CJB|SBS,韩国|CJB|SBS,SBS CJB (540p) [Not 24/7],韩国EBS第一频道
+EBS E,韩国·EBS_E频道,韩国|EBSe,韩EBS_E,韩国-EBSe,韩·EBSe,韩-EBSe
+EBS I,韩国EBS加一频道,韩国|EBSi,韩国·EBS加二频道,韩国|EBS+2,韩·EBS-2,朝鲜新闻
+EBS kids,韩国lEBS 儿童频道,韩EBS少儿童,韩教育台,韩·BBS佛教,韩国|EBS1
+EBS1,韩国-EBS1,韩国|EBS1,韩·EBS1,韩-EBS1,韩国·EBS第一频道,韩·EBS-1,韩国EBS第一频道,TV4
+EBS2,韩国-EBS2,韩国|EBS2,韩·EBS2,韩-EBS2,韩国·EBS第二频道,韩·EBS-2,韩国频道,韩国」EBS Digital,韩国EBS第二频道
+EBS+2,韩国|EBS+2
+FGTV,FGTV (720p)
+GCN24 Korean,GCN24 Korean (720p)
+Gongyoung Shopping,Gongyoung Shopping (720p)
+GoodTV,GoodTV (1080p)
+GS My Shop,GS My Shop (1080p)
+GS Shop,GS Shop (1080p)
+GugakTV 국악방송,GugakTV 국악방송 (1080p)
+HBTV HD,韩·EBS少儿韩国」KCTV
+Home & Shopping,Home & Shopping (720p)
+Hyundai Home Shopping Plus,Hyundai Home Shopping Plus (720p)
+JCN TV,JCN TV (1080p)
+JTV|SBS,KBS世界,SBS JTV (406p) [Not 24/7]
+KBC|SBS,阿里郎,Mubeat
+KBS 1,KBS II,KBS 1TV [Not 24/7]
+KBS 2,KBS 2TV [Not 24/7]
+KBS Drama,KBS Drama (480p)
+KBS Kids,KBS Kids (480p)
+KBS life,KBS Life (480p)
+KBS Live DokDo,KBS LiveCam DokDo (540p),韩国|KBS LIVE,KBS LiveCam DokDo,韩国」BBS
+KBS Story,KBS Story (480p)
+KBS World,韩国KBS World
+KCTV,ArirangTV,KCTV 광주,KCTV 광주 CH05 (720p) [Not 24/7],韩国|KCTV,TBS Seoul
+KCTV1,韩国|KCTV 1
+KFN,Gugbang TV (1080p) [Not 24/7]
+KNN SBS,SBS KNN (1080p) [Not 24/7]
+Korea TV,Korea TV (1080p),韩·KoreaTV,KBS世界
+Lotte Home Shopping,Lotte Home Shopping (720p)
+Lotte OneTV,Lotte OneTV (720p)
+MAD,韩·EBS-2
+MBC M,C
+MBC,MBC Jeju (제주 MBC) (352p) [Not 24/7],KBC TV,MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],MBC Chungbuk (MBC 충북) (720p) [Not 24/7],MBC Daegu (대구 MBC) (480p) [Not 24/7],MBC Daejeon (대전 MBC) (720p) [Not 24/7],MBC TV (720p),MBC Yeosu (여수 MBC) (1080p) [Not 24/7],韩国|MBC体育,MBC体育
+MBN,MBN,JTV
+NBS,NBS Korea Agricultural Broadcasting (720p),ArirangTV,TV1,韩国|NBS
+NHTV,NHTV (720p),NTV
+OBS,OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+OUN,OUN (1080p)
+RM24H,韩国RM24H
+SBS,SBS (480p)
+Shinsegae Shopping TV,Shinsegae Shopping TV (720p)
+Shopping NT,Shopping NT (720p)
+TBS,TBS Seoul (720p),ArirangTV,TV3
+TVN,韩国|TVN2,韩国」JTBC
+TVN1,韩国|TVN1,韩国」EBSe
+TVN3,韩国|TVN3,韩国」CJB | SBS
+W Shopping,W Shopping (720p)
+WBC,WBC TV (1080p)
+YTN,YTN

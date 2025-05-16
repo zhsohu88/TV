@@ -1,0 +1,33 @@
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+
+/audio/
+
+# 自己添加的黑名单
+61.133.118.228:5001
+65.108.74.147:49366
+8.138.7.223
+aktv-stream
+aktv_stream1
+api.olelive.com
+cdn.iptv8k.top
+epg.pw
+fmbox.cc
+goo.bkpcp.top
+hc73k3dhwo5gfkt.wcetv.com
+iptv.diyp.tech
+iptv.yjxfz.com
+ku9.3n.cc
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+php.jdshipin.com:8880
+piccpndali.v.myalicdn.com
+satellitepull.cnr.cn
+serv00.bkpcp.top
+skype.serv00.net
+stream1.freetv.fun
+tvbox6.icu
+www.freetv.top
+z.b.bkpcp.top
+zsntlqj.xicp.net
+zw9999.cnstream.top

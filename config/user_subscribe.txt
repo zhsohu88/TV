@@ -1,0 +1,412 @@
+# 这是订阅源列表，每行一个订阅地址
+# This is a list of subscription sources, with one subscription address per line
+
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+# https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+# https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+# https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+
+# 自己添加的订阅源
+# https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+# https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+# https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/kr.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
+
+# 拾光｜影仓0312
+https://4708.kstore.space/svip/ITV.txt
+# 月光宝盒
+https://ygbh.site/bh.txt
+# NEW直播
+https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
+# 七星itv
+https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
+# 野火LIVE
+https://pastebin.com/raw/V0BhYHF4
+# 欧歌vjj
+https://欧歌vjj.u.nxog.top/m/tv/
+# 欧歌AI直播
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+# 码点影仓
+http://mdxgh.tpddns.cn:9999/new/mdzb.txt
+# 易看电视
+http://117.72.68.25:9230/latest.txt
+# 海燕直播
+https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
+# 乘风TV-1.0.0-002
+http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
+# 拾光ITV
+https://4708.kstore.space/svip/ITV.txt
+# 小苹果，蜗牛线路[测试2]
+http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
+# 电视家9.0-2025
+http://8.138.7.223/2025.txt
+
+# 飞蓝电视free_1.1.1_免费版
+# http://api.mytv666.top/lives/free.php?type=txt
+# 流年直播
+https://chuxinya.top/f/76vVIZ/流年直播源.txt
+
+# 猫TV 同源 肥猫 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)
+http://dd.rihou.cc:555/gggg.nzk
+# 肥猫  同源 猫TV 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)
+# http://rihou.cc:555/gggg.nzk
+# 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)  同源 猫TV 肥猫
+# http://rihou.cc:567/gggg.nzk
+
+# https://github.com/1757580896 的地址
+https://raw.githubusercontent.com/1757580896/iptv-api1/refs/heads/master/output/result.txt
+https://raw.githubusercontent.com/1757580896/collect-tv-txt/refs/heads/main/live_lite.txt
+https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
+https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
+https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt
+https://raw.githubusercontent.com/chunme/Live/main/hlj.m3u #888
+https://raw.githubusercontent.com/chunme/Live/main/mdj.m3u # PLtV
+
+https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u # PltV v6
+
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou3.txt   #https://1.v.nxog.top/m/tv/ou.txt # 欧cctv源 费 源码  tvbox又变了
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/7cc038ea37b4797963e5dcf8702579303adfb6d1/ou2.txt 
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/ipv4/result.m3u
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/ipv6/result.m3u
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/ou.txt
+https://6758.kstore.space/666.txt
+
+https://raw.githubusercontent.com/sunjiana/iptv-api1/master/output/result.m3u # colocect 
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
+https://www.cloudplains.cn/result.txt
+http://49.0.205.239:8866/Sub?type=txt
+http://yaozhenguo.top:5000/Sub?type=txt
+https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/%E5%85%A8%E5%9B%BD.txt
+https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.m3u
+https://live.zbds.top/tv/iptv6.txt
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+http://wx.thego.cn/df.txt
+http://wx.thego.cn/backup.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+# https://tv.iill.top/m3u/Gather 不能使用只能直接订阅使用
+https://d.kstore.dev/download/9524/%E8%AE%B4%E6%AD%8C.txt
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/tv.m3u
+https://github.com/mytv-android/China-TV-Live-M3U8/blob/main/webview.m3u
+https://gh-proxy.com/raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv4.m3u
+https://live.fanmingming.cn/tv/m3u/demo.m3u
+https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
+https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/ipv4/result.txt
+https://raw.githubusercontent.com/1757580896/tvtxt/main/itvlist.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/CUTV.txt
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/live.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/merged_output.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output_simple.m3u
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/Adult.m3u
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/CCTV.m3u
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/CNTV.m3u
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/IPTV.m3u
+https://raw.githubusercontent.com/my-tv1/ds-tv/main/tvlist.txt
+https://raw.githubusercontent.com/my-tv1/ds-tv/main/itvlist.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist/main/CCTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist/main/CNTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist/main/IPTV.m3u
+https://raw.githubusercontent.com/my-tv1/IPtv-auto/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/IPtv-auto/main/live2.m3u
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/daddylive-channels-kodi.m3u8
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/daddylive-channels-tivimate.m3u8
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/daddylive-channels.m3u8
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/daddylive-events-tivimate.m3u8
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/daddylive-events.m3u8
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/moveonjoy.m3u8
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/thetvapp.m3u8
+https://raw.githubusercontent.com/my-tv1/tvauto1/master/iptv%2B.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto1/master/iptv.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto1/master/live-china.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto1/master/radio.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/my-tv1/tvauto2/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto2/main/live.txt
+https://raw.githubusercontent.com/my-tv1/tvauto2/refs/heads/main/live_lite.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto2/main/live_lite.txt
+https://raw.githubusercontent.com/my-tv1/sy-iptv/main/nmd.m3u
+https://raw.githubusercontent.com/my-tv1/sy-iptv/main/xf.m3u
+https://raw.githubusercontent.com/my-tv1/sy-iptv/main/ShaanxiTV.m3u
+
+# tvyuan
+#辽宁
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt #辽宁移动V6.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E6%8A%9A%E9%A1%BA%E8%81%94%E9%80%9A221RTSP.txt # 辽宁抚顺联通221RTSP.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E6%B2%88%E9%98%B3%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt # 辽宁沈阳电信组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E8%81%94%E9%80%9A%20rtsp.xlsx # 辽宁联通 rtsp.xlsx
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E8%81%94%E9%80%9A221Rtsp.txt # 辽宁联通221Rtsp.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 辽宁联通组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E9%93%81%E5%B2%AD%E5%BC%80%E5%8E%9F%E8%81%94%E9%80%9A%E9%85%92%E5%BA%97%E6%BA%90.txt # 辽宁铁岭开原联通酒店源.txt
+#湖南
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1124.txt # 湖南电信124.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt # 湖南电信组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%ADIP%E7%89%88.txt # 湖南电信组播IP版.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A82025.txt # 湖南移动2025.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A839%E9%AB%98%E6%B8%85OTT.txt # 湖南移动39高清OTT.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E5%86%85%E7%BD%91%E9%9D%9E%E7%BB%84%E6%92%AD%E7%94%B5%E8%A7%86%E6%BA%902025.txt # 湖南移动内网非组播电视源2025.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%BB%84%E6%92%AD.txt # 湖南移动组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%AB%98%E6%B8%85ipv6%EF%BC%88%E9%9D%9E%E5%AE%8C%E6%95%B4%EF%BC%89.txt # 湖南移动高清ipv6（非完整）.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E6%B9%96%E5%8D%97%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 湖南联通组播.txt
+#北京
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC111%E7%A7%BB%E5%8A%A8.txt # 北京111移动.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%ACBPTV.txt # 北京BPTV.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%94%B5%E4%BF%A1.txt # 北京电信.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt # 北京电信组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%A7%BB%E5%8A%A8.txt # 北京移动.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E7%A7%BB%E5%8A%A8%E7%BB%84%E6%92%AD.txt # 北京移动组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 北京联通组播.txt
+#陕西
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BFV6.txt # 陕西V6.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%8D%8E%E6%95%B0%E8%81%94%E9%80%9A%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西华数联通直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%AE%89%E5%BA%B7%E7%A7%BB%E5%8A%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西安康移动直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%B9%BF%E7%94%B5%E7%A7%A6%E5%B2%AD%E4%BA%91.txt # 陕西广电秦岭云.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E5%B9%BF%E7%94%B5%E7%A7%A6%E5%B2%AD%E4%BA%91CDN%E7%89%88.txt # 陕西广电秦岭云CDN版.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E6%B8%AD%E5%8D%97%E9%93%B6%E6%B2%B3%E7%A7%BB%E5%8A%A8IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西渭南银河移动IPTV直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt # 陕西电信组播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E7%A7%BB%E5%8A%A8%E5%9B%9E%E7%9C%8B.txt # 陕西移动回看.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E7%A7%BB%E5%8A%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西移动直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E8%81%94%E9%80%9A%E5%8D%95%E6%92%AD.txt # 陕西联通单播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89%E7%A7%BB%E5%8A%A8IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 陕西西安移动IPTV直播源.txt
+
+
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%85%B79%E4%B8%93%E7%BA%BF.txt # 酷9专线.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%85%B79%E7%94%B5%E4%BF%A1V4%E7%9B%B4%E6%92%AD%E6%BA%90 # 酷9电信V4直播源
+#近期
+https://raw.githubusercontent.com/1757580896/tvyuan/main/TV2025 # TV2025
+https://raw.githubusercontent.com/1757580896/tvyuan/main/BesTV.txt # BesTV.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/ITV%E7%9B%B4%E6%92%AD.txt # ITV直播.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/ITV%E7%9B%B4%E6%92%AD%E6%BA%90.txt # ITV直播源.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/ITV%E8%BD%AC%E6%8D%A2.txt # ITV转换.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/p3p.txt # p3p.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/stream%E7%9B%B4%E6%92%AD%E6%BA%90 # stream直播源
+
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%9F%8E%E5%BB%BA%E5%AD%A6%E9%99%A2TV.txt # 城建学院TV.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%92%AA%E5%92%95.txt # 咪咕.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%92%AA%E5%92%95%E7%A7%BB%E5%8A%A8.txt # 咪咕移动.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/108P3P%E5%8E%9F%E5%8A%9B%E6%BA%90.txt # 108P3P原力源.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%A4%AE%E5%8D%ABipv4.txt 央卫ipv4.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8ITV.txt 中国移动ITV.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/ITV%E7%9B%B4%E6%92%AD%E6%BA%90.txt #ITV直播源.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/108P3P%E5%8E%9F%E5%8A%9B%E6%BA%90.txt # 108P3P原力源.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8ITV.txt # 中国移动ITV.txt
+#黑龙 黑龙江 PLTV 移动 CDN 版.xlsx文件类型不对
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%8A%E5%B8%82%E5%8E%BF.txt # 黑龙江及市县.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%8C%E9%B8%AD%E5%B1%B1%E7%A7%BB%E5%8A%A8.txt # 黑龙江双鸭山移动.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%83%E5%8F%B0%E6%B2%B3%E7%A7%BB%E5%8A%A8IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 黑龙江七台河移动IPTV直播源.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8111%E7%A7%BB%E5%8A%A8IP%E4%B8%8D%E5%AE%8C%E6%95%B4%E7%89%88.txt # 黑龙江哈尔滨111移动IP不完整版.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8%E7%A7%BB%E5%8A%A8.txt # 黑龙江哈尔滨移动.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%A7%E5%BA%86%E7%A7%BB%E5%8A%A8.txt # 黑龙江大庆移动.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%A7%BB%E5%8A%A8V6.txt # 黑龙江移动V6.txt
+https://raw.githubusercontent.com/1757580896/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%A7%BB%E5%8A%A8%E7%BB%84%E6%92%AD%E6%BA%90.txt # 黑龙江移动组播源.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt # 黑龙江联通组播.txt
+
+https://raw.githubusercontent.com/my-tv1/IPTV-Multicast-source/main/live.txt
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CCTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CNTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/IPTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/Livelist-QI.m3u
+https://raw.githubusercontent.com/my-tv1/IPTV-Multicast-source/main/live.txt
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CCTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CNTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/IPTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/Livelist-QI.m3u
+https://raw.githubusercontent.com/my-tv1/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt
+https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.category.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.country.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.language.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.region.m3u
+https://raw.githubusercontent.com/1697366715/duankou/master/%E7%9B%B4%E6%92%AD.txt
+https://raw.githubusercontent.com/1697366715/iptv-api/master/output/result.m3u
+https://raw.githubusercontent.com/sunjiana/ttv/main/itvlist.m3u
+https://raw.githubusercontent.com/sunjiana/ttv/main/ZHGXTV.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/20250210.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/240830jk.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/ZB%E6%BA%90-250310.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/ccws.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/henayd.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/henm-iptv_20250201220705.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m//tv/
+https://ua.fongmi.eu.org/box.php?url=https://%E7%9B%92%E5%AD%90%E8%BF%B7.top/ZB # https://盒子迷.top/ZB 前面解析版
+https://raw.githubusercontent.com/my-tv1/tv-/main/tvlist.m3u
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%92%AA%E5%92%95.m3u
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%92%AA%E5%92%95%E4%BB%A3%E7%90%86.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD(%E7%94%B5%E4%BF%A1%20%E7%A7%BB%E5%8A%A8%20%E8%81%94%E9%80%9A).txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91%E7%A7%BB%E5%8A%A8.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%92%AA%E5%92%95%E9%A2%91%E9%81%93.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82%20%E4%BA%94%E5%B8%B8%E5%B8%82%20%E7%A7%BB%E5%8A%A8%E7%BD%91%E5%A4%AE%E8%A7%86%E5%8D%AB%E8%A7%86.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%A4%A7%E8%A1%97%E6%8D%A1%E7%9A%84.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%A4%AE%E5%8D%AB%20(2).txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%A4%AE%E8%A7%86%E6%95%B0%E5%AD%97.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%A9%B7%E5%A9%B7%E6%BA%90_20241110.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%B1%B1%E4%B8%9CIPV6.m3u
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8%2BCDN.m3u
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%B1%B1%E4%B8%9C%E7%A7%BB%E5%8A%A8(1).txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%B1%B1%E4%B8%9C%E7%A7%BB%E5%8A%A8.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%811(1).txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81PLTV%E7%A7%BB%E5%8A%A8%2BCDN.m3u
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81%E5%A4%A7%E8%BF%9E%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81%E9%9E%8D%E5%B1%B1%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E9%BB%91%E9%BE%99%E6%B1%9FPLTV%E7%A7%BB%E5%8A%A8%2BCDN.m3u
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E6%B7%B1%E5%9C%B3%E9%98%BF%E9%87%8C%E4%BA%91.txt
+https://raw.githubusercontent.com/my-tv1/tvv/main/iptv.m3u
+https://raw.githubusercontent.com/my-tv1/tvv/main/iptv.txt
+https://raw.githubusercontent.com/my-tv1/tvv/main/ipv6.m3u
+https://raw.githubusercontent.com/my-tv1/tvv/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/tvv/main/live.txt
+https://raw.githubusercontent.com/my-tv1/tvvv/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/tvvv/main/live.txt
+https://raw.githubusercontent.com/my-tv1/tvvv/main/%E7%9B%B4%E6%92%AD/ipv6.txt
+https://raw.githubusercontent.com/my-tv1/tvvv/main/%E7%9B%B4%E6%92%AD/%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93.txt
+https://freetv.fun/test_channels.m3u
+https://freetv.fun/test_channels_new.m3u
+https://freetv.fun/test_channels.txt
+https://freetv.fun/test_channels_new.txt
+https://freetv.fun/test_channels_original.txt
+https://freetv.fun/test_channels_original_new.txt
+https://freetv.fun/test_channels_hong_kong.m3u	
+https://freetv.fun/test_channels_hong_kong_new.m3u	
+https://freetv.fun/test_channels_hong_kong.txt	
+https://freetv.fun/test_channels_hong_kong_new.txt	
+https://freetv.fun/test_channels_hong_kong_original.txt	
+https://freetv.fun/test_channels_hong_kong_original_new.txt	
+https://freetv.fun/test_channels_china_national.m3u	
+https://freetv.fun/test_channels_china_national_new.m3u	
+https://freetv.fun/test_channels_china_national.txt	
+https://freetv.fun/test_channels_china_national_new.txt	
+https://freetv.fun/test_channels_china_national_original.txt	
+https://freetv.fun/test_channels_china_national_original_new.txt
+https://freetv.fun/test_channels_china.m3u	
+https://freetv.fun/test_channels_china_new.m3u	
+https://freetv.fun/test_channels_china.txt	
+https://freetv.fun/test_channels_china_new.txt	
+https://freetv.fun/test_channels_china_original.txt	
+https://freetv.fun/test_channels_china_original_new.txt	
+https://freetv.fun/test_channels_macau.m3u	
+https://freetv.fun/test_channels_macau_new.m3u	
+https://freetv.fun/test_channels_macau.txt	
+https://freetv.fun/test_channels_macau_new.txt	
+https://freetv.fun/test_channels_macau_original.txt	
+https://freetv.fun/test_channels_macau_original_new.txt	
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/CCTV.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/CNTV.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV-tvbox.txt
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/m3u/IPTV-LT.m3u
+ https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv  # 欧歌直接解密可以直接看到的
+https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m//tv/
+# https://ua.fongmi.eu.org/box.php?url=https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
+# https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php  # 我不是摸鱼儿已经加密了
+# https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live # 不知道的，但链接有效
+# https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather # yang-1989.eu.org的解码版本 (其实就是不二次跳转了) 这几个都在collect-tv-txt筛选过了 解析版本也不能直接使用，但破了鉴0502
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_ws.txt
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt # 解
+ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/custom/zhang.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/4K.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/AKTV.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AAsports.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A0.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A1.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%8D%AB%E8%A7%86.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%A4%AE%E8%A7%86.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E6%BA%90.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%84%BF%E7%AB%A5%E4%B8%93%E4%BA%AB.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%8F%B0%E6%B9%BE%E5%8F%B0.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%AE%9A%E5%88%B6%E6%BA%90.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E7%94%B5%E8%A7%86%E5%89%A7.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E8%8B%B1%E8%AF%AD%E9%A2%91%E9%81%93.txt
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://live.izbds.com/tv/iptv4.txt # 榴芒电视
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
+https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/ipv4/result.txt
+https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/result.txt
+https://raw.githubusercontent.com/sunjiana/ds/main/tvlist.txt
+https://raw.githubusercontent.com/sunjiana/ds/main/news.txtt
+https://raw.githubusercontent.com/sunjiana/ds/main/da.txt
+https://raw.githubusercontent.com/sunjiana/ds//main/news.txt
+https://raw.githubusercontent.com/sunjiana/iptv-api2/master/output/result.m3u
+https://raw.githubusercontent.com/sunjiana/ds/main/ZHGXTV.txt
+https://raw.githubusercontent.com/sunjiana/ds/main/ZHGXTV1.txt
+https://raw.githubusercontent.com/my-tv1/tv-/main/%E5%B9%BF%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E6%BA%90.m3u
+# 标本
+https://raw.githubusercontent.com/1757580896/tt1/main/itvlist.m3u
+https://raw.githubusercontent.com/1757580896/tt2/main/itvlist.m3u
+
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt/hotel/%E5%85%A8%E5%9B%BD.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/Susa.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/Susaw.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/g.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/ga.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E5%9B%9B%E5%B7%9D%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E5%A4%A9%E6%B4%A5%E8%81%94%E9%80%9A.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E5%AE%89%E5%BE%BD%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E5%B9%BF%E8%A5%BF%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B1%9F%E8%A5%BF%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B2%B3%E5%8C%97%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B2%B3%E5%8D%97%E8%81%94%E9%80%9A.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/txt_files/%E9%87%8D%E5%BA%86%E7%94%B5%E4%BF%A1.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/iptv_merged_output.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/ipv6.m3u
+https://raw.githubusercontent.com/sunjiana/tvlist/main/live.txt

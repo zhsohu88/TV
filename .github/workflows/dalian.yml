@@ -1,0 +1,34 @@
+name: '大连台'
+
+on:
+  # schedule:
+    # - cron: '0 3 * * *'  # 每天11:00 AM 运行 (UTC时间为03:00，对应北京时间11:00)
+  workflow_dispatch:  # 允许手动触发
+  
+jobs:
+  fetch-url:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Fetch playlist URL
+      run: python dalian.py
+
+    - name: 提交并推送更改
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"  # 配置本地 Git 用户邮箱
+        git config --local user.name "github-actions[bot]"  # 配置本地 Git 用户名
+        git pull origin master  # 先拉取远程更改
+        git add config/user_local.txt  # 确保添加所有生成的 txt 文件
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update playlist with available URLs" && git push)  # 提交更改并推送
+
