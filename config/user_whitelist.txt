@@ -81,25 +81,6 @@ CCTV16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
 CCTV17,http://39.134.65.141/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
-CCTV1,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv1hd
-CCTV2,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv2hd8m
-CCTV3,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv3hd
-CCTV4,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv4hd4m
-CCTV5,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv5hd
-CCTV5+,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv5phd
-CCTV6,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv6hd
-CCTV7,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv7hd4m
-CCTV8,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv8hd
-CCTV9,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv9hd4mc
-CCTV10,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv10hd
-CCTV11,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv11hd4m
-CCTV12,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv12hd4m
-CCTV13,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv13hd4m
-CCTV14,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctvsehd
-CCTV15,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctvyyhd4m
-CCTV16,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv16hd4m
-CCTV17,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv17hd4m
-
 CCTV1,http://39.134.65.198/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.200/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.211/PLTV/88888888/224/3221225816/1.m3u8
