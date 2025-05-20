@@ -293,6 +293,10 @@ UFC格斗18,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926e
 山东体育,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$!
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$!
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140?Cf=cfss.cc$!
+WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8$!
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?$!
+F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535$!
+12 TV Parma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8$!
 beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8$!
 CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8$!
 Canal do Inter (720p) [Not 24/7],https://video01.soultv.com.br/internacional/internacional/playlist.m3u8$!
@@ -399,6 +403,155 @@ YTN,http://210.92.207.38:40001$!
 影视1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743$!
 影视2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595$!
 耀才财经
+
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+KBS NEWS D
+阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Mnet,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,http://183.99.22.189:9981/stream/channelid/806525648?
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8#http://1.245.74.5:1935/live/tv/playlist.m3u8
+CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+TJBSBS,http://1.245.74.5:1935/live/tv/.m3u8
+JIBS,http://123.140.197.22/stream/1/play.m3u8
+KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+G1,http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+이벤트,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B3A7AB53.m3u8
+SBSM,http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzQ3NDgzNDksInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImM3Mzc0MTUxLWNmZGYtNDZjMi1hYmVhLTgzNmFkMTE1ZjQyYiIsImlhdCI6MTczNDc0MTE0OX0.iBTnyJQy7IT0ofOJWs_tc9aK8VD-ayM7a4rgEAyQ7R8
+SBSP,http://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzQ3NDgzNzEsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmZDJmMWQ3NC02MDllLTQ4MTQtOWIyMS04ZTEwNThiZjYzYTUiLCJpYXQiOjE3MzQ3NDExNzF9.mVPhxanLdviewtOyMxftJB44qKcmmaPh0TMJ9RsVI8s
+KBS STORY,https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1734913866&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDkxMzg2Nn19fV19&Signature=ncfzBRA8Y6snasvAtn0zh3pArakXwDL-h~SN0jiJXIo0mHvE6YqSH-HpDksYs4SVsxsoKAYWMO~YhacojRVr2UNMbe2px0b5w4vNb5Ov6w0~Aem1Jp-lrGZxNhnCA-FyLc~UJURDM4M9GVA4UdDVIRNkZN9lCt5q3oMy5avRj2djUdmG24b6QU7PkEa7OWCibTaWjpbhtQv5CpUmW61hDHH8XTmxYao9iJLj52-Akb9hVxo2Wrr88iIKTFMb5~b6ea2ch8H0ePbv5qYTWSwgMKhWPRLcaxs6yxCBZhiTDmG6FLmYX0z0Fb43kC3uAKpT9Ade00MgVHUnbLlqgrCasQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KNN,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_7_10BA9897.m3u8
+SBS,http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzQ3NDgwMjYsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjEzMDEzNWUzLTFhN2YtNDViMS04NDM4LWM3ZDhiZGRhZGRjNiIsImlhdCI6MTczNDc0MDgyNn0.nggrBdR08ybEJR-iEFEwmxQe9eGhdIqJywQf3I4ExxE
+대구MBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_2758F434.m3u8
+MBC강원영동,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_5A304631.m3u8
+NEW KMOVIES,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
+국악방송,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+OBS,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_55.m3u8
+BTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
+딜라이브TV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_510_AAC44F43.m3u8
+WBC,http://139.150.248.29/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+KFN,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+시민방송,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_513_75523FC8.m3u8
+소상공인방송,http://cdnlive29.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+애니원http://210.97.86.161:9981/stream/channelid/377618692?ticket=
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+Mplex,http://110.47.7.144:9981/stream/channelid/65?
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+OC N,http://110.47.7.144:9981/stream/channelid/48
+tvN,http://110.47.7.144:9981/stream/channelid/44
+SCREEN,http://110.47.7.144:9981/stream/channelid/28
+Mnet,http://110.47.7.144:9981/stream/channelid/29
+OCN MOVIES,http://110.47.7.144:9981/stream/channelid/45
+CNTV,http://110.47.7.144:9981/stream/channelid/73
+中华TV,http://110.47.7.144:9981/stream/channelid/97
+CMCTV,http://110.47.7.144:9981/stream/channelid/98
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+job plus,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+BSMBC,http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+JEJUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+CJMBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476?
+BBSTV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+O C N,http://117.123.30.250:9981/stream/channelid/35?
+JT BC2,http://117.123.30.250:9981/stream/channelid/71?
+ANIONE,http://117.123.30.250:9981/stream/channelid/58
+SBS,http://117.123.30.250:9981/stream/channelid/86
+MBC,http://117.123.30.250:9981/stream/channelid/84
+MBC D,http://117.123.30.250:9981/stream/channelid/59
+패션앤,http://117.123.30.250:9981/stream/channelid/39
+한국경제TV,http://117.123.30.250:9981/stream/channelid/77
+EDGE,http://117.123.30.250:9981/stream/channelid/2
+FUN,http://117.123.30.250:9981/stream/channelid/3
+MBCON,http://117.123.30.250:9981/stream/channelid/7
+SPOTV,http://117.123.30.250:9981/stream/channelid/8
+E,http://117.123.30.250:9981/stream/channelid/10
+tvN,http://117.123.30.250:9981/stream/channelid/11
+CJ,http://117.123.30.250:9981/stream/channelid/12
+롯데홈쇼핑,http://117.123.30.250:9981/stream/channelid/15
+MBN,http://117.123.30.250:9981/stream/channelid/20
+채널A,http://117.123.30.250:9981/stream/channelid/22
+DR CUBE,http://117.123.30.250:9981/stream/channelid/24
+KTV,http://117.123.30.250:9981/stream/channelid/27
+연합뉴스TV,http://117.123.30.250:9981/stream/channelid/29
+YTN,http://117.123.30.250:9981/stream/channelid/30
+ANIMAX,http://117.123.30.250:9981/stream/channelid/33
+뷰,http://117.123.30.250:9981/stream/channelid/34
+SCREEN,http://117.123.30.250:9981/stream/channelid/36
+OCN MOVIES,http://117.123.30.250:9981/stream/channelid/37
+OCN MOVIES2,http://117.123.30.250:9981/stream/channelid/40
+CNTV,http://117.123.30.250:9981/stream/channelid/6
+Fox,http://117.123.30.250:9981/stream/channelid/53
+JTBC,http://117.123.30.250:9981/stream/channelid/18
+TV asia,http://117.123.30.250:9981/stream/channelid/52
+KBS1,http://117.123.30.250:9981/stream/channelid/85
+인디필름http://117.123.30.250:9981/stream/channelid/5
+CINE F,http://117.123.30.250:9981/stream/channelid/38
+F,http://117.123.30.250:9981/stream/channelid/39
+ENA,http://117.123.30.250:9981/stream/channelid/41
+iHQ,http://117.123.30.250:9981/stream/channelid/43
+Mnet,http://117.123.30.250:9981/stream/channelid/45
+ENA S,http://117.123.30.250:9981/stream/channelid/46
+K STAR,http://117.123.30.250:9981/stream/channelid/48
+tvN D,http://117.123.30.250:9981/stream/channelid/49
+SKY SP,http://117.123.30.250:9981/stream/channelid/50
+tvN S,http://117.123.30.250:9981/stream/channelid/51
+TVA P,http://117.123.30.250:9981/stream/channelid/52
+NOW,http://117.123.30.250:9981/stream/channelid/53
+KBSN,http://117.123.30.250:9981/stream/channelid/55
+event,http://117.123.30.250:9981/stream/channelid/56
+CTS,http://117.123.30.250:9981/stream/channelid/60
+BTN,http://117.123.30.250:9981/stream/channelid/61
+cpbc,http://117.123.30.250:9981/stream/channelid/62
+CS2,http://117.123.30.250:9981/stream/channelid/63
+SBS P,http://117.123.30.250:9981/stream/channelid/64
+KBS D,http://117.123.30.250:9981/stream/channelid/65
+inet,http://117.123.30.250:9981/stream/channelid/66
+MBC SP,http://117.123.30.250:9981/stream/channelid/67
+SBS SP,http://117.123.30.250:9981/stream/channelid/68
+SBS B,http://117.123.30.250:9981/stream/channelid/69
+MBC M,http://117.123.30.250:9981/stream/channelid/70
+CMC가족오락,http://117.123.30.250:9981/stream/channelid/73
+TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+TV2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
+TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+TV4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+TV5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+TV6,https://stream.ads.ottera.tv/playlist.m3u8?network_id=751
 
 💎直播🔞_9,#genre#
 彩虹电影
