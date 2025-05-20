@@ -400,8 +400,6 @@ W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playli
 WBC,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8$!
 YTN,http://210.92.207.38:40001$!
 韩国歌舞,https://vd3.bdstatic.com/mda-kasdx4z9kq62e918/sc/mda-kasdx4z9kq62e918.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D$!
-影视1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743$!
-影视2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595$!
 耀才财经
 
 💎直播🔞_9,#genre#
