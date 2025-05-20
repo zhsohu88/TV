@@ -959,7 +959,8 @@ UFC格斗18,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926e
 纬来体育,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE,http://198.16.100.186:8278/Wwe/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3b405b56f0233224d69ba1f8f983c2a7
-F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
+F1赛车,https://stream.ads.ottera.tv/cl/250520d0m0sjl4prgab92v7ep0/1280x720_3071200_0_f.m3u8?i=475_535
 12 TV Parma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
 CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
