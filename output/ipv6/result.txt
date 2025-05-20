@@ -202,6 +202,7 @@ CCTV4欧洲,http://sport.pendy.dpdns.org/migu/608807419
 第一剧场,http://tl.061833.xyz/tl/null-6
 第一剧场,https://www.zhixun.com.mp/zx.php
 第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8
+第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8
 发现之旅,http://[2409:8087:2801:22:100::73]/wh7f454c46tw3958323208_1188361305/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
 风云剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
 风云剧场,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225700/10000100000000060000000000146058_0.smil/index.m3u8
@@ -218,10 +219,12 @@ CCTV4欧洲,http://sport.pendy.dpdns.org/migu/608807419
 央视台球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8
+央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/1.m3u8
 高尔夫网球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227496/index.m3u8
 高尔夫网球,http://[2409:8087:2801:22:100::36]/wh7f454c46tw3921544661_291482569/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8
 高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8
+高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
 怀旧剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 老故事,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -282,6 +285,7 @@ CETV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
 CETV3,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
 CETV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 CETV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
+CETV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV4,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CETV4,http://39.134.65.196/PLTV/88888888/224/3221225750/1.m3u8
 CETV4,http://39.134.65.207/PLTV/88888888/224/3221225750/1.m3u8
@@ -1197,6 +1201,10 @@ UFC格斗18,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926e
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://www.zhixun.com.mp/zx.php
 先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8
+WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
+F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+12 TV Parma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
 CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 Canal do Inter (720p) [Not 24/7],https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
@@ -1254,6 +1262,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 央视台球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8
+央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 
 🍎韩国频道,#genre#
 ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1320,6 +1329,12 @@ YTN,http://210.92.207.38:40001
 影视1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 影视2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 影视2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+KBS2,https://www.zhixun.com.mp/zx.php
+tvN,https://live.tvfix.org/live/tvn/index.m3u8
+tvN,https://zjtv01.tv12.xyz/tvN
+tvN,https://www.zhixun.com.mp/zx.php
+SPOTV,https://www.zhixun.com.mp/zx.php
+KBSN,https://www.zhixun.com.mp/zx.php
 
 💎直播🔞_9,#genre#
 激情9频道,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
