@@ -1050,26 +1050,6 @@ W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playli
 WBC,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 YTN,http://210.92.207.38:40001
 韩国歌舞,https://vd3.bdstatic.com/mda-kasdx4z9kq62e918/sc/mda-kasdx4z9kq62e918.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
-影视1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-影视2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-KBS世界,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-Mnet,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-KBS1,http://mytv.dothome.co.kr/ch/public/1.php
-KBS2,http://mytv.dothome.co.kr/ch/public/3.php
-JIBS,http://123.140.197.22/stream/1/play.m3u8
-KBS STORY,http://mytv.dothome.co.kr/ch/catv/4.php
-대구MBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_2758F434.m3u8
-NEW KMOVIES,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
-국악방송,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-BTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
-딜라이브TV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_510_AAC44F43.m3u8
-Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-JTV,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
-BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 
 💎直播🔞_9,#genre#
 激情9频道,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
