@@ -405,6 +405,8 @@ http://tl.061833.xyz/tl/null-6
 https://www.zhixun.com.mp/zx.php
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="📺央视频道",第一剧场
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="📺央视频道",第一剧场
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="📺央视频道",发现之旅
 http://[2409:8087:2801:22:100::73]/wh7f454c46tw3958323208_1188361305/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="📺央视频道",风云剧场
@@ -437,6 +439,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="📺央视频道",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="📺央视频道",央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="📺央视频道",高尔夫网球
 http://[2409:8087:74d4:21::36]/270000001128/9900000094/1.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="📺央视频道",高尔夫网球
@@ -445,6 +449,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227496/index.m3u8
 http://[2409:8087:2801:22:100::36]/wh7f454c46tw3921544661_291482569/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="📺央视频道",高尔夫网球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="📺央视频道",高尔夫网球
+http://[2409:8087:74d4:21::36]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="📺央视频道",怀旧剧场
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="📺央视频道",怀旧剧场
@@ -487,8 +493,6 @@ https://play-hsbj.vzan.com/2146882248/645899275683339739/live.m3u8
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225663/10000100000000060000000000145885_0.smil/index.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中学生.png" group-title="📺央视频道",中学生
 http://[2409:8087:2801:20:100::44]/wh7f454c46tw4002552631_-312718911/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="📺央视频道",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="📺央视频道",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="📺央视频道",重温经典
@@ -565,6 +569,8 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226950/i
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道",CETV3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道",CETV3
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
@@ -1489,6 +1495,26 @@ http://www.52sw.top:678/play/huya.php?id=139167
 http://www.52sw.top:678/play/huya.php?id=406324
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="♦️棋牌频道",天元围棋
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225714/10000100000000060000000000146036_0.smil/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://61.160.112.102:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://[2409:8087:74d4:21::36]/270000001128/9900000120/1.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
@@ -1498,17 +1524,17 @@ http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
-http://[2409:8087:74d4:21::36]/270000001128/9900000119/1.m3u8
+http://61.160.112.102:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
-http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
+http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="🏀咪咕体育",睛彩竞技
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
+http://61.160.112.102:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🏀咪咕体育",睛彩篮球
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🏀咪咕体育",睛彩篮球
@@ -1528,27 +1554,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🏀咪咕体育",睛彩篮球
 http://111.22.153.159:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🏀咪咕体育",睛彩篮球
-http://www.terrykang.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://[2409:8087:74d4:21::36]/270000001128/9900000120/1.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🏀咪咕体育",睛彩青少
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+http://61.160.112.102:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="咪咕篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕篮球.png" group-title="🏀咪咕体育",咪咕篮球
 http://39.134.67.148/PLTV/88888888/224/3221225613/1.m3u8
 #EXTINF:-1 tvg-name="咪咕乒乓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕乒乓.png" group-title="🏀咪咕体育",咪咕乒乓
@@ -1667,10 +1673,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 http://nhljz.net:35455/itv/3000000001000010948.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕8.png" group-title="🏀咪咕体育",赛事咪咕8
 http://nas.suntao.online:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕9.png" group-title="🏀咪咕体育",赛事咪咕9
-http://111.22.153.159:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕9.png" group-title="🏀咪咕体育",赛事咪咕9
-http://nhljz.net:35455/itv/3000000001000026778.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕10.png" group-title="🏀咪咕体育",赛事咪咕10
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕10.png" group-title="🏀咪咕体育",赛事咪咕10
@@ -1723,12 +1725,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕13.png" group-title="🏀咪咕体育",赛事咪咕13
 http://nas.suntao.online:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕14.png" group-title="🏀咪咕体育",赛事咪咕14
-http://111.22.153.159:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕14.png" group-title="🏀咪咕体育",赛事咪咕14
-http://nhljz.net:35455/itv/3000000010000002032.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕15.png" group-title="🏀咪咕体育",赛事咪咕15
-http://61.160.112.102:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕15.png" group-title="🏀咪咕体育",赛事咪咕15
 http://111.22.153.159:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕15.png" group-title="🏀咪咕体育",赛事咪咕15
@@ -1767,10 +1763,6 @@ http://nhljz.net:35455/itv/3000000010000004193.m3u8
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕17.png" group-title="🏀咪咕体育",赛事咪咕17
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227326/index.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕18.png" group-title="🏀咪咕体育",赛事咪咕18
-http://111.22.153.159:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕18.png" group-title="🏀咪咕体育",赛事咪咕18
-http://nhljz.net:35455/itv/3000000010000004464.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕20" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕20.png" group-title="🏀咪咕体育",赛事咪咕20
 http://61.160.112.102:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕20" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕20.png" group-title="🏀咪咕体育",赛事咪咕20
@@ -1783,8 +1775,6 @@ http://nhljz.net:35455/itv/3000000010000005837.m3u8
 http://nas.suntao.online:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕21" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕21.png" group-title="🏀咪咕体育",赛事咪咕21
 http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕21" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕21.png" group-title="🏀咪咕体育",赛事咪咕21
-http://61.160.112.102:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕21" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕21.png" group-title="🏀咪咕体育",赛事咪咕21
 http://111.22.153.159:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕21" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕21.png" group-title="🏀咪咕体育",赛事咪咕21
@@ -1809,14 +1799,6 @@ http://nhljz.net:35455/itv/3000000010000006658.m3u8
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕22" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕22.png" group-title="🏀咪咕体育",赛事咪咕22
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227369/index.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕23.png" group-title="🏀咪咕体育",赛事咪咕23
-http://111.22.153.159:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕23.png" group-title="🏀咪咕体育",赛事咪咕23
-http://nhljz.net:35455/itv/3000000010000006944.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕24.png" group-title="🏀咪咕体育",赛事咪咕24
-http://111.22.153.159:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕24.png" group-title="🏀咪咕体育",赛事咪咕24
-http://nhljz.net:35455/itv/3000000010000007692.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕25.png" group-title="🏀咪咕体育",赛事咪咕25
 http://111.22.153.159:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕25.png" group-title="🏀咪咕体育",赛事咪咕25
@@ -1825,6 +1807,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 http://nhljz.net:35455/itv/3000000010000009788.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕25.png" group-title="🏀咪咕体育",赛事咪咕25
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕25.png" group-title="🏀咪咕体育",赛事咪咕25
+http://nas.suntao.online:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕26.png" group-title="🏀咪咕体育",赛事咪咕26
 http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕26.png" group-title="🏀咪咕体育",赛事咪咕26
@@ -1839,14 +1823,10 @@ http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕26.png" group-title="🏀咪咕体育",赛事咪咕26
 http://nas.suntao.online:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕27.png" group-title="🏀咪咕体育",赛事咪咕27
-http://111.22.153.159:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕27.png" group-title="🏀咪咕体育",赛事咪咕27
-http://nhljz.net:35455/itv/3000000010000011112.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕26.png" group-title="🏀咪咕体育",赛事咪咕26
+http://nas.suntao.online:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕28.png" group-title="🏀咪咕体育",赛事咪咕28
 http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕28.png" group-title="🏀咪咕体育",赛事咪咕28
-http://61.160.112.102:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕28.png" group-title="🏀咪咕体育",赛事咪咕28
 http://111.22.153.159:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕28.png" group-title="🏀咪咕体育",赛事咪咕28
@@ -1859,34 +1839,10 @@ http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227378/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕28.png" group-title="🏀咪咕体育",赛事咪咕28
 http://nas.suntao.online:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕29" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕29.png" group-title="🏀咪咕体育",赛事咪咕29
-http://111.22.153.159:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕29" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕29.png" group-title="🏀咪咕体育",赛事咪咕29
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="赛事咪咕29" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕29.png" group-title="🏀咪咕体育",赛事咪咕29
-http://nhljz.net:35455/itv/3000000010000011518.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕29" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕29.png" group-title="🏀咪咕体育",赛事咪咕29
-http://nas.suntao.online:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕30.png" group-title="🏀咪咕体育",赛事咪咕30
-http://111.22.153.159:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕30.png" group-title="🏀咪咕体育",赛事咪咕30
-http://nhljz.net:35455/itv/3000000010000011763.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕31.png" group-title="🏀咪咕体育",赛事咪咕31
-http://111.22.153.159:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕31.png" group-title="🏀咪咕体育",赛事咪咕31
-http://nhljz.net:35455/itv/3000000010000011873.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕32.png" group-title="🏀咪咕体育",赛事咪咕32
-http://111.22.153.159:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕32.png" group-title="🏀咪咕体育",赛事咪咕32
-http://nhljz.net:35455/itv/3000000010000012398.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕33.png" group-title="🏀咪咕体育",赛事咪咕33
-http://111.22.153.159:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕33.png" group-title="🏀咪咕体育",赛事咪咕33
-http://nhljz.net:35455/itv/3000000010000012450.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕28.png" group-title="🏀咪咕体育",赛事咪咕28
+http://nas.suntao.online:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕34.png" group-title="🏀咪咕体育",赛事咪咕34
 http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕34.png" group-title="🏀咪咕体育",赛事咪咕34
-http://61.160.112.102:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕34.png" group-title="🏀咪咕体育",赛事咪咕34
 http://111.22.153.159:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕34.png" group-title="🏀咪咕体育",赛事咪咕34
@@ -1937,30 +1893,6 @@ http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕37" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕37.png" group-title="🏀咪咕体育",赛事咪咕37
 http://nas.suntao.online:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕39" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕39.png" group-title="🏀咪咕体育",赛事咪咕39
-http://111.22.153.159:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕39" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕39.png" group-title="🏀咪咕体育",赛事咪咕39
-http://nhljz.net:35455/itv/3000000010000017389.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
-http://111.22.153.159:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
-http://nhljz.net:35455/itv/3000000010000017678.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
-http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
-http://nas.suntao.online:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕41" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕41.png" group-title="🏀咪咕体育",赛事咪咕41
-http://111.22.153.159:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕41" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕41.png" group-title="🏀咪咕体育",赛事咪咕41
-http://nhljz.net:35455/itv/3000000010000017997.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕42" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕42.png" group-title="🏀咪咕体育",赛事咪咕42
-http://111.22.153.159:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕42" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕42.png" group-title="🏀咪咕体育",赛事咪咕42
-http://nhljz.net:35455/itv/3000000010000019380.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕43" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕43.png" group-title="🏀咪咕体育",赛事咪咕43
 http://61.160.112.102:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕43" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕43.png" group-title="🏀咪咕体育",赛事咪咕43
@@ -1975,10 +1907,6 @@ http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕43" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕43.png" group-title="🏀咪咕体育",赛事咪咕43
 http://nas.suntao.online:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕44" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕44.png" group-title="🏀咪咕体育",赛事咪咕44
-http://111.22.153.159:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕44" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕44.png" group-title="🏀咪咕体育",赛事咪咕44
-http://nhljz.net:35455/itv/3000000010000020168.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕45" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕45.png" group-title="🏀咪咕体育",赛事咪咕45
 http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕45" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕45.png" group-title="🏀咪咕体育",赛事咪咕45
@@ -1995,6 +1923,8 @@ http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕45" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕45.png" group-title="🏀咪咕体育",赛事咪咕45
 http://nas.suntao.online:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕45" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕45.png" group-title="🏀咪咕体育",赛事咪咕45
+http://nas.suntao.online:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕46" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕46.png" group-title="🏀咪咕体育",赛事咪咕46
 http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕46" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕46.png" group-title="🏀咪咕体育",赛事咪咕46
@@ -2011,14 +1941,6 @@ http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕46" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕46.png" group-title="🏀咪咕体育",赛事咪咕46
 http://nas.suntao.online:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕47" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕47.png" group-title="🏀咪咕体育",赛事咪咕47
-http://111.22.153.159:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕47" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕47.png" group-title="🏀咪咕体育",赛事咪咕47
-http://nhljz.net:35455/itv/3000000010000024205.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕48" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕48.png" group-title="🏀咪咕体育",赛事咪咕48
-http://111.22.153.159:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕48" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕48.png" group-title="🏀咪咕体育",赛事咪咕48
-http://nhljz.net:35455/itv/3000000010000024691.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕49" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕49.png" group-title="🏀咪咕体育",赛事咪咕49
 http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕49" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕49.png" group-title="🏀咪咕体育",赛事咪咕49
@@ -2037,18 +1959,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
 http://nas.suntao.online:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕49" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕49.png" group-title="🏀咪咕体育",赛事咪咕49
 http://nas.suntao.online:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕50" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕50.png" group-title="🏀咪咕体育",赛事咪咕50
-http://111.22.153.159:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕50" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕50.png" group-title="🏀咪咕体育",赛事咪咕50
-http://nhljz.net:35455/itv/3000000010000025943.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕51" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕51.png" group-title="🏀咪咕体育",赛事咪咕51
-http://111.22.153.159:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕51" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕51.png" group-title="🏀咪咕体育",赛事咪咕51
-http://nhljz.net:35455/itv/3000000010000027318.m3u8
-#EXTINF:-1 tvg-name="赛事咪咕52" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕52.png" group-title="🏀咪咕体育",赛事咪咕52
-http://111.22.153.159:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕52" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕52.png" group-title="🏀咪咕体育",赛事咪咕52
-http://nhljz.net:35455/itv/3000000010000027638.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕53" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕53.png" group-title="🏀咪咕体育",赛事咪咕53
 http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕53" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕53.png" group-title="🏀咪咕体育",赛事咪咕53
@@ -2083,10 +1993,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 http://nas.suntao.online:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕54" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕54.png" group-title="🏀咪咕体育",赛事咪咕54
 http://nas.suntao.online:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕55" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕55.png" group-title="🏀咪咕体育",赛事咪咕55
-http://111.22.153.159:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕55" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕55.png" group-title="🏀咪咕体育",赛事咪咕55
-http://nhljz.net:35455/itv/3000000010000032106.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕56" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕56.png" group-title="🏀咪咕体育",赛事咪咕56
 http://61.160.112.102:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕56" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕56.png" group-title="🏀咪咕体育",赛事咪咕56
@@ -2119,50 +2025,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 http://nas.suntao.online:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕59" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕59.png" group-title="🏀咪咕体育",赛事咪咕59
 http://nas.suntao.online:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕60" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕60.png" group-title="🏀咪咕体育",赛事咪咕60
-http://61.160.112.102:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕60" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕60.png" group-title="🏀咪咕体育",赛事咪咕60
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="赛事咪咕60" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕60.png" group-title="🏀咪咕体育",赛事咪咕60
-http://nas.suntao.online:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕60" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕60.png" group-title="🏀咪咕体育",赛事咪咕60
-http://nas.suntao.online:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕61" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕61.png" group-title="🏀咪咕体育",赛事咪咕61
-http://61.160.112.102:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕61" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕61.png" group-title="🏀咪咕体育",赛事咪咕61
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="赛事咪咕61" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕61.png" group-title="🏀咪咕体育",赛事咪咕61
-http://nas.suntao.online:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕62" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕62.png" group-title="🏀咪咕体育",赛事咪咕62
-http://61.160.112.102:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕62" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕62.png" group-title="🏀咪咕体育",赛事咪咕62
-http://nas.suntao.online:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕63" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕63.png" group-title="🏀咪咕体育",赛事咪咕63
-http://61.160.112.102:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕63" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕63.png" group-title="🏀咪咕体育",赛事咪咕63
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="赛事咪咕63" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕63.png" group-title="🏀咪咕体育",赛事咪咕63
-http://nas.suntao.online:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕64" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕64.png" group-title="🏀咪咕体育",赛事咪咕64
-http://61.160.112.102:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕64" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕64.png" group-title="🏀咪咕体育",赛事咪咕64
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="赛事咪咕64" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕64.png" group-title="🏀咪咕体育",赛事咪咕64
-http://nas.suntao.online:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕65" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕65.png" group-title="🏀咪咕体育",赛事咪咕65
-http://61.160.112.102:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕65" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕65.png" group-title="🏀咪咕体育",赛事咪咕65
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="赛事咪咕65" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕65.png" group-title="🏀咪咕体育",赛事咪咕65
-http://nas.suntao.online:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕66" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕66.png" group-title="🏀咪咕体育",赛事咪咕66
-http://61.160.112.102:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕66" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕66.png" group-title="🏀咪咕体育",赛事咪咕66
-http://nas.suntao.online:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕67" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕67.png" group-title="🏀咪咕体育",赛事咪咕67
-http://61.160.112.102:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="赛事咪咕67" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕67.png" group-title="🏀咪咕体育",赛事咪咕67
-http://nas.suntao.online:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕4K-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕4K-1.png" group-title="🏀咪咕体育",赛事咪咕4K-1
 http://111.22.153.159:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="赛事咪咕4K-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕4K-1.png" group-title="🏀咪咕体育",赛事咪咕4K-1
@@ -2178,6 +2040,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 #EXTINF:-1 tvg-name="赛事咪咕4K-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕4K-1.png" group-title="🏀咪咕体育",赛事咪咕4K-1
 http://nhljz.net:35455/itv/3000000010000005180.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕4K-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕4K-1.png" group-title="🏀咪咕体育",赛事咪咕4K-1
+http://111.22.153.159:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕4K-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕4K-1.png" group-title="🏀咪咕体育",赛事咪咕4K-1
 http://[2409:8087:2801:22:100::79]/wh7f454c46tw349940667_-2020645190/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕4K-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕4K-1.png" group-title="🏀咪咕体育",赛事咪咕4K-1
 http://nas.suntao.online:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
@@ -2187,6 +2051,98 @@ http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 http://nhljz.net:35455/itv/3000000010000015686.m3u8
 #EXTINF:-1 tvg-name="赛事咪咕4K-2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕4K-2.png" group-title="🏀咪咕体育",赛事咪咕4K-2
 http://nas.suntao.online:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕9.png" group-title="🏀咪咕体育",赛事咪咕9
+http://111.22.153.159:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕9.png" group-title="🏀咪咕体育",赛事咪咕9
+http://nhljz.net:35455/itv/3000000001000026778.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕14.png" group-title="🏀咪咕体育",赛事咪咕14
+http://111.22.153.159:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕14.png" group-title="🏀咪咕体育",赛事咪咕14
+http://nhljz.net:35455/itv/3000000010000002032.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕18.png" group-title="🏀咪咕体育",赛事咪咕18
+http://111.22.153.159:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕18.png" group-title="🏀咪咕体育",赛事咪咕18
+http://nhljz.net:35455/itv/3000000010000004464.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕23.png" group-title="🏀咪咕体育",赛事咪咕23
+http://111.22.153.159:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕23.png" group-title="🏀咪咕体育",赛事咪咕23
+http://nhljz.net:35455/itv/3000000010000006944.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕24.png" group-title="🏀咪咕体育",赛事咪咕24
+http://111.22.153.159:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕24.png" group-title="🏀咪咕体育",赛事咪咕24
+http://nhljz.net:35455/itv/3000000010000007692.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕27.png" group-title="🏀咪咕体育",赛事咪咕27
+http://111.22.153.159:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕27.png" group-title="🏀咪咕体育",赛事咪咕27
+http://nhljz.net:35455/itv/3000000010000011112.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕30.png" group-title="🏀咪咕体育",赛事咪咕30
+http://111.22.153.159:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕30.png" group-title="🏀咪咕体育",赛事咪咕30
+http://nhljz.net:35455/itv/3000000010000011763.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕31.png" group-title="🏀咪咕体育",赛事咪咕31
+http://111.22.153.159:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕31.png" group-title="🏀咪咕体育",赛事咪咕31
+http://nhljz.net:35455/itv/3000000010000011873.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕32.png" group-title="🏀咪咕体育",赛事咪咕32
+http://111.22.153.159:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕32.png" group-title="🏀咪咕体育",赛事咪咕32
+http://nhljz.net:35455/itv/3000000010000012398.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕33.png" group-title="🏀咪咕体育",赛事咪咕33
+http://111.22.153.159:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕33.png" group-title="🏀咪咕体育",赛事咪咕33
+http://nhljz.net:35455/itv/3000000010000012450.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕39" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕39.png" group-title="🏀咪咕体育",赛事咪咕39
+http://111.22.153.159:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕39" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕39.png" group-title="🏀咪咕体育",赛事咪咕39
+http://nhljz.net:35455/itv/3000000010000017389.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
+http://111.22.153.159:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
+http://nhljz.net:35455/itv/3000000010000017678.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
+http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕40.png" group-title="🏀咪咕体育",赛事咪咕40
+http://nas.suntao.online:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕41" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕41.png" group-title="🏀咪咕体育",赛事咪咕41
+http://111.22.153.159:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕41" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕41.png" group-title="🏀咪咕体育",赛事咪咕41
+http://nhljz.net:35455/itv/3000000010000017997.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕42" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕42.png" group-title="🏀咪咕体育",赛事咪咕42
+http://111.22.153.159:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕42" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕42.png" group-title="🏀咪咕体育",赛事咪咕42
+http://nhljz.net:35455/itv/3000000010000019380.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕44" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕44.png" group-title="🏀咪咕体育",赛事咪咕44
+http://111.22.153.159:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕44" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕44.png" group-title="🏀咪咕体育",赛事咪咕44
+http://nhljz.net:35455/itv/3000000010000020168.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕47" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕47.png" group-title="🏀咪咕体育",赛事咪咕47
+http://111.22.153.159:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕47" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕47.png" group-title="🏀咪咕体育",赛事咪咕47
+http://nhljz.net:35455/itv/3000000010000024205.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕48" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕48.png" group-title="🏀咪咕体育",赛事咪咕48
+http://111.22.153.159:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕48" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕48.png" group-title="🏀咪咕体育",赛事咪咕48
+http://nhljz.net:35455/itv/3000000010000024691.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕50" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕50.png" group-title="🏀咪咕体育",赛事咪咕50
+http://111.22.153.159:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕50" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕50.png" group-title="🏀咪咕体育",赛事咪咕50
+http://nhljz.net:35455/itv/3000000010000025943.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕51" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕51.png" group-title="🏀咪咕体育",赛事咪咕51
+http://111.22.153.159:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕51" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕51.png" group-title="🏀咪咕体育",赛事咪咕51
+http://nhljz.net:35455/itv/3000000010000027318.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕52" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕52.png" group-title="🏀咪咕体育",赛事咪咕52
+http://111.22.153.159:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕52" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕52.png" group-title="🏀咪咕体育",赛事咪咕52
+http://nhljz.net:35455/itv/3000000010000027638.m3u8
+#EXTINF:-1 tvg-name="赛事咪咕55" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕55.png" group-title="🏀咪咕体育",赛事咪咕55
+http://111.22.153.159:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="赛事咪咕55" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事咪咕55.png" group-title="🏀咪咕体育",赛事咪咕55
+http://nhljz.net:35455/itv/3000000010000032106.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🤾🏻体育频道",CCTV5
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🤾🏻体育频道",CCTV5
@@ -2491,6 +2447,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="🤾🏻体育频道",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="🤾🏻体育频道",央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 #EXTINF:-1 tvg-name="ABN TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABN TV.png" group-title="🍎韩国频道",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-name="BTN TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTN TV.png" group-title="🍎韩国频道",BTN TV
